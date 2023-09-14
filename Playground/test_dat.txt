@@ -1,0 +1,545 @@
+Update  article
+Basic  principles  of  transcranial  magnetic  stimulation  (TMS)  and
+repetitive  TMS  (rTMS)
+Wanalee  Klomjaia,  Rose  Katzb,c,  Alexandra  Lackmy-Valle ´eb,*
+aFaculty  of  Physical  Therapy,  Mahidol  University,  73170  Nakonpathom,  Thailand
+bUPMC  Universite ´Paris  06,  CNRS,  Inserm,  laboratoire  d’imagerie  biome ´dicale,  Sorbonne  universite ´s,  75013  Paris,  France
+cService  de  me´decine  physique  et  re´adaptation,  groupe  hospitalier  Pitie´-Salpe ˆtrie`re,  AP–HP,  France
+1.  Introduction
+Over  the  past  decades,  neuroscience  researchers  have  beneﬁted
+from  technical  advancements  in  non-invasive  brain  stimulation  in
+humans.  Transcranial  magnetic  stimulation  (TMS)  is  one  method
+used  to  deliver  electrical  stimuli  through  the  scalp  in  conscious
+humans.  In  general,  single-pulse  TMS  (including  paired-pulse  TMS)
+is  used  to  explore  brain  functioning,  whereas  repetitive  TMS
+(rTMS)  is  used  to  induce  changes  in  brain  activity  that  can  last
+beyond  the  stimulation  period.  Non-invasive  TMS  of  the  motor
+cortex  leads  to  a  twitch  in  the  target  muscle  evoking  motor-evoked
+potential  (MEP)  on  electromyography.  The  MEP  is  usually  used  to
+assess  the  corticospinal  tract  excitability.  The  physiological  bases
+underlying  modulations  induced  by  TMS  and  rTMS  have  not  been
+elucidated.  The  main  knowledge  is  still  from  animal  studies  and  in
+vitro  experiments  performed  on  hippocampal  slices.  The  purpose
+of  the  present  review  is  to  discuss  the  main  points  of  TMS  to  allow
+for  a  better  understanding  of  its  mechanisms.2.  Animal  experiments
+During  the  20th  century,  animal  studies  provided  the  ﬁrst
+evidence  of  the  effect  of  a  single  electrical  pulse  given  by  a  probe
+directly  applied  over  the  motor  cortex  [1].  In  these  experiments,
+the  skull  was  removed  to  expose  the  brain.  This  set-up  with
+implanted  electrodes  allowed  for  recording  the  discharges  from
+subcortical  ﬁbers  and  ﬁbers  of  the  pyramidal  decussation.  Later,
+Patton  and  Amassian  showed  that  the  response  evoked  in
+pyramidal  ﬁbers  by  electrical  stimulation  of  the  motor  cortex
+were  spaced  from  1  to  2  ms  [2].  At  a  response  threshold,  anodal
+stimulation  evoked  a  ﬁrst  volley  in  the  pyramidal  tract,  which  was
+followed,  with  increasing  stimulation  intensity,  by  later  volleys
+separated  by  a  periodicity  of  1.5  ms.  Different  conditions  were
+tested  to  determine  the  origins  of  these  descending  volleys
+induced  by  anodal  stimulation.  The  ﬁrst  volley  recruited  appeared
+not  to  be  affected  by  cortex  cooling  and  was  maintained  after
+removal  of  the  cortical  grey  matter,  whereas  later  volleys  were
+depressed  by  cortex  cooling  and  disappeared  when  the  grey  matter
+was  removed.  The  authors  hypothesized  that  the  ﬁrst  volley
+resulted  from  direct  stimulation  of  pyramidal  tract  axons,  called
+direct  wave  (D-wave),  whereas  later  volleys  came  from  synaptic
+activation  of  the  same  pyramidal  tract  neurons,  called  indirect
+waves  (I-waves).  The  recruitment  order  of  descending  volleys
+evoked  in  the  pyramidal  tract  by  anodal  stimulation  wasAnnals  of  Physical  and  Rehabilitation  Medicine  58  (2015)  208–213
+A  R  T  I  C  L  E  I  N  F  O
+Article  history:
+Received  13  March  2015
+Accepted  31  May  2015
+Keywords:
+Transcranial  magnetic  stimulation  (TMS)
+Human
+CortexA  B  S  T  R  A  C  T
+Transcranial  magnetic  stimulation  (TMS)  and  repetitive  TMS  (rTMS)  are  indirect  and  non-invasive
+methods  used  to  induce  excitability  changes  in  the  motor  cortex  via  a  wire  coil  generating  a  magnetic
+ﬁeld  that  passes  through  the  scalp.  Today,  TMS  has  become  a  key  method  to  investigate  brain  functioning
+in  humans.  Moreover,  because  rTMS  can  lead  to  long-lasting  after-effects  in  the  brain,  it  is  thought  to  be
+able  to  induce  plasticity.  This  tool  appears  to  be  a  potential  therapy  for  neurological  and  psychiatric
+diseases.  However,  the  physiological  mechanisms  underlying  the  effects  induced  by  TMS  and  rTMS  have
+not  yet  been  clearly  identiﬁed.  The  purpose  of  the  present  review  is  to  summarize  the  main  knowledge
+available  for  TMS  and  rTMS  to  allow  for  understanding  their  mode  of  action  and  to  specify  the  different
+parameters  that  inﬂuence  their  effects.  This  review  takes  an  inventory  of  the  most-used  rTMS  paradigms
+in  clinical  research  and  exhibits  the  hypotheses  commonly  assumed  to  explain  rTMS  after-effects.
+/C223  2015  Elsevier  Masson  SAS.  All  rights  reserved.
+*Corresponding  author.  ER6  UPMC  University  Paris  6,  Service  MPR,
+Hoˆpital  Pitie´-Salpe ˆtrie`re,  47,  boulevard  de  l’Hoˆpital,  75651  Paris  cedex  13,  France.
+Tel.:  +33  1  42  16  11  00;  fax:  +33  1  42  16  11  02.
+E-mail  address:  alexandra.lackmy@upmc.fr  (A.  Lackmy-Valle ´e).Available  online  at
+ScienceDirect
+www.sciencedirect.com
+http://dx.doi.org/10.1016/j.rehab.2015.05.005
+1877-0657/ /C223  2015  Elsevier  Masson  SAS.  All  rights  reserved.
+Downloaded for Anonymous User (n/a) at Duke University from ClinicalKey.com by Elsevier on September 14, 2023. 
+For personal use only. No other uses without permission. Copyright ©2023. Elsevier Inc. All rights reserved.accurately  deﬁned  by  Kernell  and  Chien-Ping,  who  conﬁrmed  that
+the  D-wave  was  the  ﬁrst  volley  recruited  and  showed  that  it  was
+followed  3  and  4.5  ms  later  by  an  I2-wave  and  I3-wave,  respectively
+[3].  However,  an  I1-wave  occurring  1.5  ms  later  than  the  D-wave
+was  evoked  only  with  high  stimulation  intensities.  The  authors
+also  found  that  the  amplitude  of  descending  volleys  induced  in  the
+pyramidal  neurons  increased  in  parallel  with  stimulation  intensity
+of  the  motor  cortex.
+3.  First  experiments  of  transcranial  stimulation  in  humans
+In  1980,  Merton  and  Morton  succeeded  in  electrically
+stimulating  the  motor  cortex  through  the  scalp  in  conscious
+humans  by  using  transcranial  electrical  stimulation  (TES)  [4].  The
+electrical  impulse  was  given  by  2  electrodes  placed  over  the  scalp,
+one  applied  over  the  arm  motor  area  and  the  other  4  cm  above  the
+ﬁrst  one.  Electrodes  were  connected  to  a  high-capacity  condenser
+(0.1  mF)  charged  up  to  2000  V.  TES  led  to  a  twitch  in  contralateral
+arm  muscles,  which  evoked  MEP  on  electromyography  (EMG).
+However,  TES  appeared  to  be  uncomfortable  and  painful.  Only
+some  fraction  of  the  current  was  thought  to  pass  through  the  scalp
+and  reach  the  cortex,  whereas  the  main  fraction  of  the  current
+spreading  between  the  2  electrodes  was  considered  to  evoke
+contraction  of  the  scalp  muscles  and  induce  local  pain.  In  1985,
+Baker  and  colleagues  proposed  replacing  TES  with  TMS  [5].  TMS
+directs  a  magnetic  ﬁeld  of  several  Teslas  via  a  wire  coil.  In  1990,
+Tofts  proposed  a  model  of  the  distribution  of  TMS-induced
+currents  in  the  central  nervous  system  [6].  He  suggested  that  as
+the  magnetic  ﬁeld  changes  rapidly,  circular  electrical  currents  are
+induced.  The  currents  ﬂow  in  a  plane  perpendicular  to  the
+magnetic  ﬁeld.  So,  current  ﬂows  induced  by  TMS  are  in  an  annulusunderneath  the  coil.  If  the  circular  coil  is  placed  ﬂat  on  the  scalp,
+currents  ﬂow  in  a  plane  parallel  to  both  the  coil  and  the  scalp.  The
+force  of  magnetic  ﬁeld  induced  by  TMS  can  be  reduced  by
+extracerebral  tissues  (scalp,  bone,  meninges),  but  it  is  still  able  to
+induce  an  electrical  ﬁeld  sufﬁcient  to  depolarize  superﬁcial  axons
+and  to  activate  networks  in  the  cortex  [7].  However,  because  the
+impedance  of  gray  matter  is  greater  than  that  of  white  matter,
+electrical  currents  in  subcortical  structures  are  weaker  than  in
+superﬁcial  layers,  so  subcortical  structures  such  as  the  basal
+ganglia  and  thalamus  are  not  activated  by  TMS.
+4.  Spinal  motoneuron  recruitment  in  response  to  TMS
+On  the  basis  of  the  Tofts  model  [6],  TMS  preferentially  activates
+neurons  oriented  horizontally  in  a  plane  that  is  parallel  to  both  the
+coil  and  the  brain  surface.  As  with  TES,  TMS  applied  over  the  motor
+cortex  induces  descending  volleys  in  the  pyramidal  tract  projecting
+on  spinal  motoneurons,  also  termed  corticospinal  tracts.  Motor-
+neuron  activation  in  response  to  corticospinal  volleys  induced  by
+TMS  evokes  MEP  on  EMG  recorded  by  using  surface  electrodes
+applied  over  the  muscle  belly.  In  practice,  the  peak-to-peak
+amplitude  of  the  MEP  and  the  motor  threshold  (MT),  deﬁned  by  the
+minimum  TMS  intensity  required  to  evoke  MEP  of  at  least  50  mV  in
+about  50%  of  5  to  10  consecutive  trials  [8],  are  both  parameters
+used  to  estimate  the  excitability  of  corticospinal  pathways  (Fig.  1).
+In  1987,  a  study  showed  that  the  ﬁrst  motor  unit  recruited  during
+minimal  voluntary  contraction  was  also  that  recruited  by  TMS  of
+the  motor  cortex;  the  order  of  recruitment  was  the  same  with  TMS
+and  with  voluntary  contraction  [9].  Motor  units  are  recruited  in  an
+orderly  sequence  from  the  smallest  to  the  largest  according  to  the
+size  principle  [10].
+Fig.  1.  Transcranial  magnetic  stimulation  (TMS)  applied  over  the  motor  cortex  preferentially  activates  interneurons  oriented  in  a  plane  parallel  to  the  brain  surface.  This
+placement  leads  to  a  transynaptic  activation  of  pyramidal  cells  evoking  descending  volleys  in  the  pyramidal  axons  projecting  on  spinal  motoneurons,  also  termed  the
+corticospinal  tract.  Motoneuron  activation  in  response  to  corticospinal  volleys  induced  by  TMS  leads  to  a  contraction  in  the  target  muscle  evoking  a  motor-evoked  potential
+(MEP)  on  electromyography  (EMG)  recorded  by  using  surface  electrodes  applied  over  the  muscle  belly.  Its  peak-to-peak  amplitude  is  used  to  estimate  excitability  of  the
+corticospinal  tract.W.  Klomjai  et  al.  /  Annals  of  Physical  and  Rehabilitation  Medicine  58  (2015)  208–213  209
+Downloaded for Anonymous User (n/a) at Duke University from ClinicalKey.com by Elsevier on September 14, 2023. 
+For personal use only. No other uses without permission. Copyright ©2023. Elsevier Inc. All rights reserved.5.  Physiological  bases  of  TMS  measures  used  to  estimate
+corticospinal  excitability
+From  pharmacolocial  studies  with  healthy  volunteers,  TMS
+measures  used  to  estimate  motor  cortical  and  corticospinal
+excitability  such  as  MT  and  MEP  are  assumed  to  rely  on  different
+physiological  mechanisms.  Thus,  the  MT,  which  depends  on
+excitability  of  cortico-cortical  axons  and  their  excitatory  contacts
+to  corticospinal  neurons,  is  inﬂuenced  by  agents  blocking  voltage-
+gated  sodium  channels  that  are  crucial  in  regulating  axon
+excitability  [11]  and  by  agents  acting  on  ionotropic  non-N-
+methyl-D-aspartate  (non-NMDA)  glutamate  receptors  such  as
+ketamine  that  are  responsible  for  fast  excitatory  synaptic
+transmission  in  the  cortex  [12].  In  contrast,  other  neurotransmit-
+ters  and  neuromodulator  systems  such  as  GABA,  dopamine,
+norepinephrine,  serotonin  or  acetylcholine  have  no  effect  on  MT.
+As  for  MT,  the  MEP  can  be  depressed  by  agents  that  inactivate
+sodium  channels  such  as  volatile  anesthetics  [13].  MEP  reduction  is
+hypothesized  to  result  from  reduced  excitability  of  I-waves  due  to
+sodium-channel  inactivation,  which  leads  to  decreased  action
+potential  ﬁring  and  in  turn  reduces  calcium  entry  at  the  presynaptic
+terminal  and  ﬁnally  synaptic  transmission  [14].  Moreover,  MEP
+amplitude  was  found  to  vary  after  the  application  of  modulators  of
+inhibitory  and  excitatory  transmission  in  neuronal  networks.  For
+instance,  MEP  is  depressed  by  modulators  of  GABA Areceptors  or
+increased  by  dopamine  agonists  and  various  norepinephrine
+agonists.  Of  note,  changes  in  MEP  amplitude  can  occur  without
+signiﬁcant  changes  in  MT,  which  supports  the  notion  of  a
+fundamental  difference  in  physiology  between  the  2  measures  [15].
+6.  Descending  volleys  induced  in  the  corticospinal  tract
+In  1990,  direct  epidural  recordings  were  performed  in
+anesthetized  subjects  to  compare  descending  volleys  evoked  by
+TES  and  TMS  in  the  corticospinal  tract  [16].  The  pattern  of
+recruitment  of  corticospinal  volleys  evoked  by  TES  seemed  to
+closely  resemble  that  evoked  in  animals  by  anodal  electrical
+stimulation  of  the  motor  cortex:  D-wave,  late  I-waves,  then  early  I-
+wave.  This  ﬁnding  suggests  that  TES  preferentially  activates
+cortical  neurons  in  a  plane  vertical  to  the  surface  brain.  The  D-
+wave  induced  by  TES  is  thought  to  result  from  excitation  of
+pyramidal  tract  axons  at  the  initial  segment  [17,18] .  Consistent
+with  the  Tofts  model  [6],  the  recruitment  pattern  of  corticospinal
+volleys  induced  by  TMS  differed  from  that  evoked  by  TES,  as
+attested  by  epidural  recordings.  With  increasing  TMS  intensity,  the
+I3-wave  was  ﬁrst  recruited,  followed  by  the  I2-wave,  then  I1-wave.
+In  a  few  subjects,  the  D-wave  could  be  evoked  with  high  TMS
+intensities.  These  results  conﬁrmed  that  TMS  preferentially
+activates  cortical  interneurons  relaying  excitatory  inputs  to
+pyramidal  neurons.
+7.  Variability  of  TMS-induced  responses
+The  path  and  strength  of  an  electrical  ﬁeld  generated  in  the
+brain  by  TMS  depends  on  many  physical  and  biological  parameters
+such  as  magnetic  pulse  waveform;  shape  and  orientation  of  the
+coil;  intensity,  frequency  and  pattern  of  stimulation;  orientation  of
+the  current  lines  induced  in  the  brain;  and  excitable  neural
+elements.  TMS  can  deliver  a  monophasic  pulse  or  biphasic  pulses.
+Monophasic  magnetic  pulses  are  commonly  used  for  single-pulse
+experiments,  whereas  biphasic  stimulus  waveforms  are  usually
+required  in  rTMS  experiments  because  of  the  lower  energy
+requirements  [19].  The  effect  of  mono-  and  biphasic  pulses  can
+be  compared  if  the  second  and  decisive  phase  of  the  biphasic  pulse
+is  taken  as  the  equivalent  of  the  initial  monophasic  pulse  [7].  Theeffectiveness  of  stimulation  appears  to  vary  according  to  the
+direction  of  currents  induced  in  the  motor  cortex  [20].
+Various  kinds  of  coils  with  different  geometries  and  sizes  have
+been  developed  and  include  the  circular  coil,  ﬁgure-of-eight  coil,
+double-cone  coil,  air-cooled  coil  and,  more  recently,  the  Hesed  coil
+[21],  c-Core  coil  and  circular  crown  coil  [7].  Currents  induced  by
+circular  coils  widely  spread  under  the  windings  and  activate
+superﬁcial  cortical  layers.  Circular  coils  are  recommended  for
+stimulating  large  and  superﬁcial  motor  areas  such  as  upper-limb
+motor  areas.  However,  the  ﬁgure-of-eight  coil  provides  a  focused
+stimulation;  the  electric  ﬁeld  is  at  its  maximum  under  its  center
+(hot  spot),  where  the  2  rings  meet,  for  a  more  accurately  deﬁned
+area.  The  electric  ﬁeld  of  double-cone  coils  can  reach  deep  cortical
+layers.  This  coil  is  mainly  recommended  for  stimulating  the  motor
+areas  of  lower  limbs  that  are  located  deep  inside  the  inter-
+hemispheric  ﬁssure  [22].  Nevertheless,  the  double-cone  coil  is  not
+focal.  A  single  TMS  via  a  double-cone  coil  over  M1  evokes  bilateral
+responses  in  upper  and  lower  limbs  and  also  a  contraction  in  facial
+muscles.  The  direction  of  current  lines  derives  from  the  orientation
+and  position  of  the  coil  over  brain  gyri  and  sulci.  In  most  studies,
+TMS  is  used  to  stimulate  M1.  If  the  ﬁgure-of-eight  coil  over  M1  is
+oriented  parallel  to  the  inter-hemispheric  ﬁssure,  current  ﬂows  in
+the  posterior–anterior  direction  and  activates  the  pyramidal  tract
+indirectly  via  the  recruitment  of  excitatory  interneurons.  Thus,
+posteriorly  directed  currents  in  the  brain  preferentially  elicit  late
+volleys  in  the  corticospinal  tract.  However,  if  the  ﬁgure-of-eight
+coil  is  oriented  perpendicular  to  the  inter-hemispheric  ﬁssure,  an
+early  I-wave  and  even  a  D-wave  can  be  recorded  [23].
+Recently,  navigated  brain  stimulation  (NBS)  has  been  devel-
+oped  to  facilitate  the  use  of  TMS.  NBS  devices  consist  of  an  infrared
+camera  detecting  trackers  placed  on  a  headband  worn  by  the
+subject  and  on  the  coil.  From  MRI  brain  data,  NBS  is  able  to  rebuild
+the  subject’s  head  in  3-D  and  to  record  the  coil  position.  Some
+devices  can  measure  the  strength  and  direction  of  the  electric  ﬁeld
+induced  in  the  brain  by  TMS.  More  than  just  being  an  improvement
+of  TMS  measurement,  NBS  offers  the  possibility  of  reliably
+stimulating  other  brain  areas  such  as  the  premotor  cortex,
+cerebellum,  sensory  areas  and  cognitive  areas.
+8.  Paired-pulse  TMS  methods
+Paired-pulse  TMS  methods  have  been  developed  since  the  late
+20th  century.  Paired-pulse  TMS  consists  of  2  successive  pulses
+through  the  same  coil,  delivered  with  a  short  inter-stimulus
+interval  (ISI)  of  a  few  milliseconds  or  a  long  ISI  (from  tens  to
+hundreds  of  milliseconds).  In  practice,  both  pulses  are  applied  over
+the  same  point  of  the  dominant  hemisphere  over  the  motor  cortex.
+This  method  is  used  to  explore  inhibitory  or  excitatory  intracortical
+networks  depending  on  the  intensity  and  ISI  used  [24–26] .  Never-
+theless,  paired-pulse  TMS  can  reveal  inhibitory  cortical  networks
+more  easily  than  excitatory  networks,  which  are  less  investigated.
+Two  TMS  pulses  can  also  be  delivered  over  each  hemisphere  at  the
+same  point  of  the  motor  cortex  so  as  to  explore  inter-hemispheric
+inhibition  (or  transcallosal  inhibition)  [27].
+9.  rTMS  methods
+Contrary  to  single-pulse  TMS,  rTMS  is  able  to  change  and
+modulate  cortical  activity  beyond  the  stimulation  period,  as  a
+potential  method  for  the  treatment  of  neurological  and  psychiatric
+disorders.  The  physiological  bases  of  rTMS  after-effects  have  not
+yet  been  clearly  identiﬁed.  Many  arguments  support  the  idea  that
+the  mechanisms  underlying  rTMS  after-effects  resemble  long-term
+potentiation  (LTP)  and  long-term  depression  (LTD)  described  in
+animals.W.  Klomjai  et  al.  /  Annals  of  Physical  and  Rehabilitation  Medicine  58  (2015)  208–213 210
+Downloaded for Anonymous User (n/a) at Duke University from ClinicalKey.com by Elsevier on September 14, 2023. 
+For personal use only. No other uses without permission. Copyright ©2023. Elsevier Inc. All rights reserved.10.  Potential  cellular  mechanisms  inducing  LTP  and  LTD
+LTP  and  LTD  are  broad  terms  that  traduce  long-term  changes  in
+synaptic  strength  that  can  occur  in  experimental  conditions  after
+brief  high-frequency  stimulation.  LTP  is  deﬁned  as  an  increase  in
+synaptic  strength,  whereas  LTD  reﬂects  a  decrease  in  synaptic
+strength.  These  concepts  were  introduced  in  1973  by  Bliss  and
+Gardner-Medwin,  who  showed  in  rabbits  that  trains  of  high-
+frequency  stimulation  delivered  to  pyramidal  cell  axons  in  the
+hippocampus  led  to  a  long-lasting  increase  in  the  amplitude  of
+excitatory  postsynaptic  potentials  [28].  Thus,  if  weak  and  strong
+inputs  were  activated  together,  the  temporal  order  of  the  pre-  and
+post-synaptic  spiking  determined  whether  LTP  or  LTD  was  induced.
+On  stimulating  ﬁrst  the  presynaptic  neuron,  then  the  postsynaptic
+neuron  (pre–post)  within  an  interval  of  tens  of  milliseconds,  LTP  is
+induced,  whereas  with  stimulation  in  the  reverse  order  (post–pre),
+LTD  is  induced.  No  changes  in  the  synaptic  strength  were  observed  if
+the  ISI  was  longer  than  100  ms  [29].  The  extensive  literature  on  this
+issue  stresses  that  plasticity  changes  depend  on  the  synapses  and  the
+circuits  in  which  they  operate.  Several  arguments  suggest  that  LTP
+can  be  induced  by  activation  of  NMDA  receptors.  This  post-synaptic
+receptor  has  an  intrinsic  cation-channel  blocked  by  Mg  ions  when
+the  cell  is  at  its  normal  resting  potential.  When  the  synaptic  neuron
+is  sufﬁciently  depolarized,  Mg2+ions  are  ejected  to  open  the  NMDA-
+receptor  cation-channel.  The  calcium  entrance  in  post-synaptic  cells
+activates  a  calcium-sensitive  signalling  pathway,  which  has  many
+downstream  targets  that  induce  changes  in  pre-  and  post-synaptic
+neurons  leading  to  increased  synaptic  strength.  One  of  these  effects
+is  increased  post-synaptic  neuron  sensitivity  to  glutamate  according
+to  a  mechanism  involving  alpha-amino-3-hydroxyl-5-methyl-4-
+isoxazolepropionic  acid  (AMPA)  receptors  [30].  Moreover,  experi-
+ments  with  hippocampal  slices  revealed  that  nitric  oxide  (NO),  a
+membrane-soluble  neuronal  messenger,  could  contribute  to  synap-
+tic  plasticity  in  the  brain.  Inhibitors  of  NO  synthase  (NOS)  could
+suppress  the  induction  of  LTP  in  the  hippocampus  and  block  LTD  in
+the  cerebellum  [31].  The  NO  contribution  to  synaptic  plasticity
+depends  on  the  strength  (i.e.,  intensity,  frequency  or  duration)  of
+tetanic  stimulation.  Thus,  LTP  induced  by  weak  tetanic  stimulation
+would  be  blocked  by  NOS  inhibitors,  whereas  stronger  tetanic
+stimulation  would  lead  to  NO-independent  potentiation  [32].  More-
+over,  NO  paired  with  low-frequency  stimulation  (0.25  Hz)  produces
+long-lasting  depression  rather  than  potentiation  [33].  Whether  NO
+affects  plasticity  by  facilitating  potentiation  mechanisms  or
+contributes  to  LTP  induction  by  inhibiting  LTD  is  unclear.
+Concerning  LTD,  its  induction  reverses  the  LTP  effects  or  LTD  is
+induced  de  novo .  Several  hypotheses  suggest  that  LTD  induction
+also  results  from  activation  of  NMDA  receptors,  thereby  leading  to
+increased  Ca2+concentration.  Contrary  to  LTP  induction,  which
+would  be  due  to  a  large  and  fast  increase  in  Ca2+concentration,  LTD
+induction  would  arise  from  a  small  and  slow  increase  in  Ca2+
+content.  In  vitro ,  LTD  is  induced  by  low-frequency  stimulations
+delivered  for  long  periods  (600–00  pulses),  whereas  LTP  occurs
+after  short  train  stimulations  delivered  at  high  frequencies.
+Changes  in  synaptic  strength  resulting  from  LTP  or  LTD  are
+commonly  divided  into  2  phases:
+/C15  a  short  phase  (early  LTP  or  LTD)  when  changes  last  for  only  30  to
+60  min;
+/C15  a  long  phase  (late  LTP  or  LTD)  when  modiﬁcations  of  protein
+synthesis  occur  [30].
+11.  rTMS  protocols
+Numerous  rTMS  protocols  have  reported  different  after-effects.
+An  after-effect  induced  by  rTMS  depends  on  stimulation  frequencyand  duration  of  the  stimulation  period  [34].  Low-frequency
+stimulation  (<  1  Hz)  has  inhibitory  effects,  whereas  high-
+frequency  stimulation  (>  5  Hz)  leads  to  excitatory  effects  in  the
+brain.  The  duration  of  the  after-effects  seems  to  vary  in  parallel
+with  the  length  of  the  stimulation.  A  longer  stimulation  induces  a
+longer  duration  of  after-effects.
+Simple  rTMS  protocols  have  individual  stimuli  that  are  spaced
+by  identical  ISI  (Fig.  2).  In  most  low-frequency  rTMS  studies,  the
+stimulation  frequency  is  usually  set  at  1  Hz,  with  stimulation
+intensity  and  pulse  number  varying  among  studies.  Low-
+frequency  rTMS  (1  Hz)  is  considered  to  have  an  inhibitory  effect
+but  at  low  intensities  (less  than  MT),  1-Hz  rTMS  often  fails  to
+have  measurable  effects  on  motor  excitability.  Some  ﬁndings
+indicate  that  variability  of  response  to  1-Hz  rTMS  might  be
+related  to  the  level  of  motor  cortex  excitability  of  the  targeted
+muscle.  1-Hz  rTMS  suppresses  MEP  only  when  the  target  muscle
+is  at  rest.  The  depression  of  MEP  could  be  increased  if  1-Hz  rTMS
+is  preceded  by  a  high-frequency  subthreshold  stimulation  as
+compared  to  no  preconditioning  stimulus.  This  increase  in
+cortical  depression  lasts  for  at  least  60  min  [35].  In  contrast,
+high-frequency  rTMS  (5-25  Hz)  is  thought  to  increase  cortical
+excitability.  Berardelli  et  al.  reported  that  5-Hz  rTMS  set  at  120%
+of  the  MT  facilitated  MEP  for  1  s  [36].  However,  the  duration  of
+effects  induced  by  high-frequency  rTMS  varies  according  to
+stimulation  intensity,  pulse  number  and  stimulation  frequency.
+High-frequency  rTMS  after-effects  can  persist  up  to  90  min  after
+stimulation  in  some  cases.  However,  after-effects  induced  by
+high-frequency  rTMS  could  be  reversed  because  of  stimulation
+intensity.  Low  intensity  (less  than  MT)  tends  to  decrease  cortical
+excitability,  whereas  high  intensity  (greater  than  MT)  increases
+cortical  excitability  [37].  As  for  low-frequency  rTMS,  modula-
+tions  induced  by  high-frequency  rTMS  depend  on  the  level  of
+excitability  of  motor  neurons  of  the  target  muscle.  If  subjects
+perform  a  brief  isometric  contraction  of  the  target  muscle,  the
+MEP  facilitation  induced  by  5-Hz  rTMS  is  longer  than  that
+observed  in  subjects  at  rest  [38].
+Besides  simple  rTMS  protocols,  new  rTMS  protocols  have
+been  developed.  The  most  used  is  theta  burst  stimulation  (TBS),
+which  has  been  used  in  animal  studies  to  induce  synaptic
+plasticity.  The  pattern  of  TBS  is  based  on  the  brain’s  natural
+theta  rhythm  occurring  in  the  hippocampus.  TBS  consists  of
+bursts  of  high-frequency  stimulation  (Fig.  2).  The  intensity  is
+subthreshold,  usually  set  at  80%  of  the  MT.  Different  patterns  of
+TBS  produce  different  effects  on  motor  cortex  excitability.  An
+intermittent  TBS  (iTBS)  protocol,  with  TBS  applied  for  2  s  and
+then  repeated  every  10  s,  increases  motor  cortex  excitability
+[34,39,40] .  A  continuous  TBS  (cTBS)  protocol,  with  TBS  repeated
+for  40  s  without  any  pause,  induces  a  consistent  depression  of
+the  MEP.  The  duration  of  the  TBS  after-effects  depends  on
+stimulation.  iTBS  applied  for  a  total  of  190  s  increases  MEP  for  at
+least  15  min,  whereas  40  s  of  cTBS  depresses  MEP  for
+approximately  60  min.  TBS  is  assumed  to  produce  a  mixture
+of  facilitatory  and  inhibitory  effects,  facilitation  building  up
+faster  than  inhibition  [39].  Of  note,  results  of  TBS  protocols  seem
+more  consistent  than  those  of  simple  rTMS  protocols,  likely
+because  in  TBS  studies,  stimulation  intensity  and  number  of
+pulses  applied  are  approximately  equal,  which  is  not  the  case  in
+simple  rTMS  studies  [30].
+The  last  TMS  protocol  detailed  in  this  review  is  termed  paired
+associative  stimulation  (PAS),  introduced  by  Stefan,  in  2000.  PAS
+protocols  combine  a  repetitive  stimulation  of  somatosensory
+afferents  with  TMS  over  the  contralateral  motor  cortex  [34]
+(Fig.  2).  PAS  is  based  on  models  of  associative  LTP  or  the  Hebbian
+concept  described  in  animals.  This  model  supports  that  converg-
+ing  inputs  from  various  sources,  including  local  intracortical
+ﬁbers  and  corticocortical  or  thalamocortical  afferents,  couldW.  Klomjai  et  al.  /  Annals  of  Physical  and  Rehabilitation  Medicine  58  (2015)  208–213  211
+Downloaded for Anonymous User (n/a) at Duke University from ClinicalKey.com by Elsevier on September 14, 2023. 
+For personal use only. No other uses without permission. Copyright ©2023. Elsevier Inc. All rights reserved.interact  to  reshape  local  representational  cortical  patterns
+[41].  In  this  concept,  the  temporal  order  of  the  presynaptic  and
+postsynaptic  spiking  determines  whether  LTP  and  LTD  is  induced
+when  a  weak  and  strong  input  are  activated  together  [29].  In
+humans,  the  nature  of  effects  induced  by  PAS  depends  on  the  ISI
+between  the  electrical  peripheral  nerve  stimulation  and  cortical
+stimulation.  If  the  ISI  is  shorter  than  the  afferent  delay  (time
+required  for  the  peripheral  afferent  input  to  reach  the  brain),  PAS
+depresses  the  excitability  in  the  motor  cortex.  In  contrast,  if  ISI  is
+longer  than  the  afferent  delay,  PAS  increases  cortical  excitability
+[42].  Pharmacological  studies  support  that  PAS  after-effects
+would  rely  on  mechanisms  depending  on  NMDA  and  GABA Breceptors.  Furthermore,  dopamine  could  also  play  a  role  in
+inducing  PAS  after-effects  [30].
+12.  Conclusion
+The  aim  of  the  present  review  was  to  summarize  the  main
+knowledge  about  the  physiological  bases  of  TMS  and  rTMS.  Given
+the  numerous  physical  and  biological  parameters  that  inﬂuence
+TMS  responses,  effects  induced  by  TMS  and  rTMS  differ  among
+studies,  so  calibrated  paradigms  need  to  be  deﬁned  to  increase
+reproducibility.  The  great  variability  in  results  questions  the  use  ofLF rTMS
+HF rTMS1s
+1s
+1scTBS
+0.2s3 pulse train0.2s
+1siTBS
+8s
+Periph  eral
+nerve s/g415mula/g415onTMS TMS TMS
+90 paired-s/g415mula/g415ons
+ISI > aﬀerent  delay
+ISI < aﬀerent  delayPAS
+pre post
+Fig.  2.  Simple  repetitive  TMS  (rTMS)  protocols  consist  of  identical  stimuli  spaced  by  an  identical  inter-stimulus  interval  (ISI).  Effects  depend  on  stimulation  frequency:  at  low
+frequency  (LF  rTMS  <  1  Hz),  rTMS  depresses  excitability  in  the  motor  cortex,  whereas  at  high  frequency  (HF  rTMS  >  5  Hz),  cortical  excitability  is  increased.  Theta  burst
+stimulation  (TBS)  involves  bursts  of  high-frequency  stimulation  (3  pulses  at  50  Hz)  repeated  with  an  ISI  of  200  ms  (5  Hz).  In  an  intermittent  TBS  (iTBS)  protocol,  bursts  are
+delivered  for  2  s,  then  repeated  every  10  s  (2  s  of  TBS  followed  by  a  pause  of  8  s).  However,  in  a  continuous  TBS  protocol  (cTBS),  bursts  are  repeated  for  40  s  without  any  pause.
+Paired  associative  stimulation  (PAS)  protocols  combine  a  repetitive  stimulation  of  peripheral  nerve  afferents  of  the  target  muscle  with  TMS  over  its  motor  area.  Intervention
+consists  of  90  to  100  PAS.W.  Klomjai  et  al.  /  Annals  of  Physical  and  Rehabilitation  Medicine  58  (2015)  208–213 212
+Downloaded for Anonymous User (n/a) at Duke University from ClinicalKey.com by Elsevier on September 14, 2023. 
+For personal use only. No other uses without permission. Copyright ©2023. Elsevier Inc. All rights reserved.TMS  and  rTMS  in  clinical  trials.  However,  this  question  is  addressed
+in  detail  in  this  issue.
+Disclosure  of  interest
+The  authors  declare  that  they  have  no  conﬂicts  of  interest
+concerning  this  article.
+Acknowledgements
+We  are  grateful  to  Genevie `ve  Bard  for  her  precious  support  in
+collating  references  and  getting  the  text  into  a  presentable  order.
+Funding:  this  work  was  supported  by  INSERM  and  MESR
+(Ministe `re  de  l’enseignement  supe´rieur  et  de  la  recherche),  APHP
+(Assistance  Publique-Ho ˆpitaux  de  Paris).
+References
+[1]  Adrian  ED,  Moruzzi  G.  Impulses  in  the  pyramidal  tract.  J  Physiol  1939;97:153–
+99.
+[2]  Patton  HD,  Amassian  VE.  Single  and  multiple-unit  analysis  of  cortical  stage  of
+pyramidal  tract  activation.  J  Neurophysiol  1954;17:345–63.
+[3]  Kernell  D,  Chien-Ping  WU.  Responses  of  the  pyramidal  tract  to  stimulation  of
+the  baboon’s  motor  cortex.  J  Physiol  1967;191:653–72.
+[4]  Merton  PA,  Morton  HB.  Stimulation  of  the  cerebral  cortex  in  the  intact  human
+subject.  Nature  1980;285:27.
+[5]  Barker  AT,  Jalinous  R,  Freeston  IL.  Non  invasive  stimulation  of  the  motor  cortex.
+Lancet  1985;2:1106–7.
+[6]  Tofts  PS.  The  distribution  of  induced  currents  in  magnetic  stimulation  of  the
+nervous  system.  Phys  Med  Biol  1990;35:1119–28.
+[7]  Lefaucheur  JP,  Andre ´-Obadia  N,  Antal  A,  et  al.  Evidence-based  guidelines  on  the
+therapeutic  use  of  repetitive  transcranial  magnetic  stimulation  (rTMS).  Clin
+Neurophysiol  2014;125:2150–206.
+[8]  Boroojerdi  B,  Battaglia  F,  Muellbacher  W,  Cohen  LG.  Mechanisms  inﬂuencing
+stimulus-response  properties  of  the  human  corticospinal  system.  Clin  Neu-
+rophysiol  2001;112:931–7.
+[9]  Hess  CW,  Mills  KR,  Murray  NM.  Responses  in  small  hand  muscles  from
+magnetic  stimulation  of  the  human  brain.  J  Physiol  1987;388:397–419.
+[10]  Henneman  E,  Mendell  LM.  Functional  organization  of  the  motoneuron  pool
+and  its  inputs.  In:  Brooks  VB,  editor.  Handbook  of  Physiology  Section  I  The
+Nervous  System  Motor  Control  Part  1,  vol.  II.  MD:  American  Physiological
+Society  Bethesda;  1981.  p.  423–507.
+[11]  Hodgkin  AL,  Huxley  AF.  A  quantitative  description  of  membrane  current  and  its
+application  to  conduction  and  excitation  in  nerve.  J  Physiol  1952;117:500–44.
+[12]  Douglas  R,  Martin  K.  Neocortex.  In:  Sheperd  GM,  editor.  The  synaptic  organi-
+zation  of  the  brain..  New  York:  Oxford  University  Press;  1998.  p.  459–509.
+[13]  Schmid  UD,  Boll  J,  Liechti  S,  Schmid  J,  Hess  CW.  Inﬂuence  of  some  anesthetic
+agents  on  muscle  responses  to  transcranial  magnetic  cortex  stimulation:  a
+pilot  study  in  humans.  Neurosurgery  1992;30:85–92.
+[14]  Ziemann  U,  Lo¨nnecker  S,  Steinhoff  BJ,  Paulus  W.  Effects  of  antiepileptic  drugs
+on  motor  cortex  excitability  in  humans:  a  transcranial  magnetic  stimulation
+study.  Ann  Neurol  1996;40:367–78.
+[15]  Ziemann  U.  TMS  and  drugs.  Clin  Neurophysiol  2004;115:1717–29.
+[16]  Burke  D,  Hicks  R,  Gandevia  SC,  Stephen  J,  Woodforth  I,  Crawford  M.  Direct
+comparison  of  corticospinal  volleys  in  human  subjects  to  transcranial  mag-
+netic  and  electrical  stimulation.  J  Physiol  1993;470:383–93.
+[17]  Amassian  VE,  Stewart  M,  Quirk  GJ,  Rosenthal  JL.  Physiological  basis  of  motor
+effects  of  a  transient  stimulus  to  cerebral  cortex.  Neurosurgery  1987;20:74–93.
+[18]  Rothwell  JC,  Thompson  PD,  Day  BL,  Boyd  S,  Marsden  CD.  Stimulation  of  the
+human  motor  cortex  through  the  scalp.  Exp  Physiol  1991;76:159–200.[19]  Sommer  M,  Alfaro  A,  Rummel  M,  Speck  S,  Lang  N,  Tings  T,  et  al.  Half  sine,
+monophasic  and  biphasic  transcranial  magnetic  stimulation  of  the  human
+motor  cortex.  Clin  Neurophysiol  2006;117:838–44.
+[20]  Kammer  T,  Beck  S,  Thielscher  A,  Laubis-Herrmann  U,  Topka  H.  Motor  thres-
+holds  in  humans:  a  transcranial  magnetic  stimulation  study  comparing
+different  pulse  waveforms,  current  directions  and  stimulator  types.  Clin
+Neurophysiol  2001;112:250–8.
+[21]  Roth  Y,  Zangen  A,  Hallett  M.  A  coil  design  for  transcranial  magnetic  stimulation
+of  deep  brain  regions.  J  Clin  Neurophysiol  2002;19:361–70.
+[22]  Hovey  C,  Jalinous  R.  The  guide  of  magnetic  stimulation.  Magstim  Guidelines
+2008.
+[23]  Sakai  K,  Ugawa  Y,  Terao  Y,  Hanajima  R,  Furubayashi  T,  Kanazawa  I.  Preferential
+activation  of  different  I  waves  by  transcranial  magnetic  stimulation  with  a
+ﬁgure-of-eight-shaped  coil.  Exp  Brain  Res  1997;113:24–32.
+[24]  Valls-Sole ´J,  Pascual-Leone  A,  Wassermann  EM,  Hallett  M.  Human  motor
+evoked  responses  to  paired  transcranial  magnetic  stimuli.  Electroencephalogr
+Clin  Neurophysiol  1992;85:355–64.
+[25]  Kujirai  T,  Caramia  MD,  Rothwell  JC,  Day  BL,  Thompson  PD,  Ferbert  A,  et  al.
+Corticocortical  inhibition  in  human  motor  cortex.  J  Physiol  1993;471:501–19.
+[26]  Tokimura  H,  Ridding  MC,  Tokimura  Y,  Amassian  VE,  Rothwell  JC.  Short  latency
+facilitation  between  pairs  of  threshold  magnetic  stimuli  applied  to  human
+motor  cortex.  Electroencephalogr  Clin  Neurophysiol  1996;101:263–72.
+[27]  Ferbert  A,  Priori  A,  Rothwell  JC,  Day  BL,  Colebatch  JG,  Marsden  CD.  Interhemi-
+spheric  inhibition  of  the  human  motor  cortex.  J  Physiol  1992;453:525–46.
+[28]  Bliss  TV,  Gardner-Medwin  AR.  Long-lasting  potentiation  of  synaptic  transmis-
+sion  in  the  dentate  area  of  the  unanaestetized  rabbit  following  stimulation  of
+the  perforant  path.  J  Physiol  1973;232:357–74.
+[29]  Levy  WB,  Steward  O.  Temporal  contiguity  requirements  for  long-term  asso-
+ciative  potentiation/depression  in  the  hippocampus.  Neuroscience  1983;8:
+791–7.
+[30]  Hoogendam  JM,  Ramakers  GM,  Di  Lazzaro  V.  Physiology  of  repetitive  trans-
+cranial  magnetic  stimulation  of  the  human  brain.  Brain  Stimul  2010;3:
+95–118.
+[31]  Bo¨hme  GA,  Bon  C,  Stutzmann  JM,  Doble  A,  Blanchard  JC.  Possible  involvement
+of  nitric  oxide  in  long-term  potentiation.  Eur  J  Pharmacol  1991;199:379–81.
+[32]  Malen  PL,  Chapman  PF.  Nitric  oxide  facilitates  long-term  potentiation,  but  not
+long-term  depression.  J  Neurosci  1997;17:2645–51.
+[33]  Zhuo  M,  Kandel  ER,  Hawkins  RD.  Nitric  oxide  and  cGMP  can  produce  either
+synaptic  depression  or  potentiation  depending  on  the  frequency  of  presyn-
+aptic  stimulation  in  the  hippocampus.  Neuroreport  1994;5:1033–6.
+[34]  Simonetta-Moreau  M.  Non-invasive  brain  stimulation  (NIBS)  and  motor
+recovery  after  stroke.  Ann  Phys  Rehabil  Med  2014;57:530–42.
+[35]  Lyer  MB,  Schleper  N,  Wassermann  EM.  Priming  stimulation  enhances  the
+depressant  effect  of  low-frequency  repetitive  transcranial  magnetic  stimula-
+tion.  J  Neurosci  2003;23:10867–72.
+[36]  Berardelli  A,  Inghilleri  M,  Rothwell  JC,  Romeo  S,  Curra `A,  Gilio  F,  et  al.
+Facilitation  of  muscle  evoked  responses  after  repetitive  cortical  stimulation
+in  man.  Exp  Brain  Res  1998;122:79–84.
+[37]  Modugno  N,  Nakamura  Y,  MacKinnon  CD,  et  al.  Motor  cortex  excitability
+following  short  trains  of  repetitive  magnetic  stimuli.  Exp  Brain  Res
+2001;140:453–9.
+[38]  Samii  A,  Wassermann  EM,  Ikoma  K,  Mercuri  B,  Hallett  M.  Characterization  of
+postexercise  facilitation  and  depression  of  motor  evoked  potentials  to  trans-
+cranial  magnetic  stimulation.  Neurology  1996;46:1376–82.
+[39]  Huang  YZ,  Edwards  MJ,  Rounis  E,  Bhatia  KP,  Rothwell  JC.  Theta  burst  stimula-
+tion  of  the  human  motor  cortex.  Neuron  2005;45:201–6.
+[40]  Di  Lazzaro  V,  Proﬁce  P,  Pilato  F,  Dileone  M,  Oliviero  A,  Ziemann  U.  The  effects  of
+motor  cortex  rTMS  on  corticospinal  descending  activity.  Clin  Neurophysiol
+2010;121:464–573.
+[41]  Stefan  K,  Kunesch  E,  Cohen  LG,  Benecke  R,  Classen  J.  Induction  of  plasticity  in
+the  human  motor  cortex  by  paired  associative  stimulation.  Brain  2000;123:
+572–84.
+[42]  Wolters  A,  Sandbrink  F,  Schlottmann  A,  Kunesch  E,  Stefan  K,  Cohen  LG,
+Benecke  R,  et  al.  A  temporally  asymmetric  Hebbian  rule  governing  plasticity
+in  the  human  motor  cortex.  J  Neurophysiol  2003;89:2339–45.W.  Klomjai  et  al.  /  Annals  of  Physical  and  Rehabilitation  Medicine  58  (2015)  208–213  213
+Downloaded for Anonymous User (n/a) at Duke University from ClinicalKey.com by Elsevier on September 14, 2023. 
+For personal use only. No other uses without permission. Copyright ©2023. Elsevier Inc. All rights reserved.
