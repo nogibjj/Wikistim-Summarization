@@ -1,1 +1,1 @@
-# Wikistim-Summarizatino
+# Wikistim-Summarization
