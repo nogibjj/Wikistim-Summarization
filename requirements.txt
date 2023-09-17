@@ -7,3 +7,6 @@ pymed
 pubmed
 elsapy
 tabula
+torch
+textsum
+transformers
