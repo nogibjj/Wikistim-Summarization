@@ -1,0 +1,1278 @@
+
+    
+<!DOCTYPE html>
+
+
+
+
+<html lang="en" >
+<head >
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile properties -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="/pmc/static/CACHE/css/output.aa42804411e1.css" type="text/css">
+  
+  <link rel="stylesheet" href="/pmc/static/CACHE/css/output.6c8346f5860b.css" type="text/css"><link rel="stylesheet" href="/pmc/static/CACHE/css/output.3b12438b8d66.css" type="text/css"><link rel="stylesheet" href="/pmc/static/CACHE/css/output.3766d7ad0d2d.css" type="text/css"><link rel="stylesheet" href="/pmc/static/CACHE/css/output.e3c3c2c84eb3.css" type="text/css">
+
+  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  
+<link type="text/css" href="/pmc/static/bundles/base/base.6539a0a78536cfdc1fa6.css" rel="stylesheet" />
+
+
+    <link rel="stylesheet" href="/corehtml/pmc/css/fonts/stix/stixfonts.css" type="text/css" /><link rel="stylesheet" href="/corehtml/pmc/css/3.18/pmcrefs3.min.css" type="text/css" /><link rel="stylesheet" href="/corehtml/pmc/css/pmc2020_1.1/ncbi_web.min.css?_=a" type="text/css" /><style type="text/css">.pmc-wm {background:transparent repeat-y top left;background-image:url(/corehtml/pmc/pmcgifs/wm-trials.gif);background-size: auto, contain}</style><style type="text/css">.print-view{display:block}</style>
+
+    <link type="text/css" href="/pmc/static/bundles/article/article.e622fd8870cb011febf1.css" rel="stylesheet" />
+    <link type="text/css" href="/pmc/static/django_pmc_cite_box/lib/cite-box.css" rel="stylesheet" />
+
+
+    <title>A study to assess changes in myocardial perfusion after treatment with spinal cord stimulation and percutaneous myocardial laser revascularisation; data from a randomised trial - PMC</title>
+
+  
+  <!-- Favicons -->
+  <link rel="shortcut icon" type="image/ico" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.ico" />
+  <link rel="icon" type="image/png" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png" />
+
+  <!-- 192x192, as recommended for Android
+  http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+  -->
+  <link rel="icon" type="image/png" sizes="192x192" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-192.png" />
+
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link rel="apple-touch-icon-precomposed" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-57.png">
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-72.png">
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-114.png">
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-144.png">
+
+
+
+    
+        <!-- Logging params: Pinger defaults -->
+
+<meta name="ncbi_app" content="pmc-frontend" />
+
+<meta name="ncbi_db" content="pmc" />
+
+<meta name="ncbi_phid" content="939B6FAAB190D0650000173828A25A28.1.m_2" />
+
+
+        <!-- Logging params: Pinger custom -->
+
+<meta name="ncbi_pdid" content="article" />
+
+<meta name="ncbi_op" content="retrieved" />
+
+<meta name="ncbi_app_version" content="1.5.0.post1+55721b3" />
+
+<meta name="ncbi_domain" content="trials" />
+
+<meta name="ncbi_type" content="fulltext" />
+
+<meta name="ncbi_pcid" content="/articles/PMC2266700/" />
+
+
+    
+
+
+        <script>
+            
+            var useOfficialGovtHeader = true;
+        </script>
+
+
+    <meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE" /><link rel="canonical" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266700/" /><link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" /><meta name="citation_journal_title" content="Trials" /><meta name="citation_title" content="A study to assess changes in myocardial perfusion after treatment with spinal cord stimulation and percutaneous myocardial laser revascularisation; data from a randomised trial" /><meta name="citation_author" content="Sadia N Khan" /><meta name="citation_author_institution" content="Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK" /><meta name="citation_author" content="Duncan C McNab" /><meta name="citation_author_institution" content="Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK" /><meta name="citation_author" content="Linda D Sharples" /><meta name="citation_author_institution" content="MRC Biostatistics Unit, Robinson Way, Cambridge, UK" /><meta name="citation_author_institution" content="Department of Research and Development, Papworth Hospital, Papworth Everard, Cambridge, UK" /><meta name="citation_author" content="Carol J Freeman" /><meta name="citation_author_institution" content="Department of Research and Development, Papworth Hospital, Papworth Everard, Cambridge, UK" /><meta name="citation_author" content="Ian Hardy" /><meta name="citation_author_institution" content="Department of Anaesthetics, Papworth Hospital, Papworth Everard, Cambridge, UK" /><meta name="citation_author" content="David L Stone" /><meta name="citation_author_institution" content="Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK" /><meta name="citation_author" content="Peter M Schofield" /><meta name="citation_author_institution" content="Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK" /><meta name="citation_publication_date" content="2008" /><meta name="citation_volume" content="9" /><meta name="citation_firstpage" content="9" /><meta name="citation_doi" content="10.1186/1745-6215-9-9" /><meta name="citation_abstract_html_url" content="/pmc/articles/PMC2266700/?report=abstract" /><meta name="citation_fulltext_html_url" content="/pmc/articles/PMC2266700/" /><meta name="citation_pmid" content="18304366" /><meta name="DC.Title" content="A study to assess changes in myocardial perfusion after treatment with spinal cord stimulation and percutaneous myocardial laser revascularisation; data from a randomised trial" /><meta name="DC.Type" content="Text" /><meta name="DC.Publisher" content="BMC" /><meta name="DC.Contributor" content="Sadia N Khan" /><meta name="DC.Contributor" content="Duncan C McNab" /><meta name="DC.Contributor" content="Linda D Sharples" /><meta name="DC.Contributor" content="Carol J Freeman" /><meta name="DC.Contributor" content="Ian Hardy" /><meta name="DC.Contributor" content="David L Stone" /><meta name="DC.Contributor" content="Peter M Schofield" /><meta name="DC.Date" content="2008" /><meta name="DC.Identifier" content="10.1186/1745-6215-9-9" /><meta name="DC.Language" content="en" /><meta property="og:title" content="A study to assess changes in myocardial perfusion after treatment with spinal cord stimulation and percutaneous myocardial laser revascularisation; data from a randomised trial" /><meta property="og:type" content="article" /><meta property="og:description" content="Spinal cord stimulation (SCS) and percutaneous myocardial laser revascularisation (PMR) are treatment modalities used to treat refractory angina pectoris, with the major aim of such treatment being the relief of disabling symptoms. This study compared ..." /><meta property="og:url" content="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266700/" /><meta property="og:site_name" content="PubMed Central (PMC)" /><meta property="og:image" content="https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@ncbi" />
+
+
+</head>
+<body >
+
+   
+    
+    
+
+
+    
+        <section class="pmc-alerts">
+
+</section>
+    
+
+    
+        <button
+          class="back-to-top back-to-top--bottom"
+          data-ga-category="pagination"
+          data-ga-action="back_to_top">
+          Back to Top
+        </button>
+    
+
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+    <!-- ========== BEGIN HEADER ========== -->
+<section class="usa-banner" style="display: none;">
+  <div class="usa-accordion">
+    <header class="usa-banner-header">
+      <div class="usa-grid usa-banner-inner">
+        <img src="https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png" alt="U.S. flag" />
+        <p>An official website of the United States government</p>
+        <button
+          class="usa-accordion-button usa-banner-button"
+          aria-expanded="false"
+          aria-controls="gov-banner-top"
+        >
+          <span class="usa-banner-button-text">Here's how you know</span>
+        </button>
+      </div>
+    </header>
+    <div
+      class="usa-banner-content usa-grid usa-accordion-content"
+      id="gov-banner-top"
+    >
+      <div class="usa-banner-guidance-gov usa-width-one-half">
+        <img
+          class="usa-banner-icon usa-media_block-img"
+          src="https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg"
+          alt="Dot gov"
+        />
+        <div class="usa-media_block-body">
+          <p>
+            <strong>The .gov means it’s official.</strong>
+            <br />
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          </p>
+        </div>
+      </div>
+      <div class="usa-banner-guidance-ssl usa-width-one-half">
+        <img
+          class="usa-banner-icon usa-media_block-img"
+          src="https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg"
+          alt="Https"
+        />
+        <div class="usa-media_block-body">
+          <p>
+            <strong>The site is secure.</strong>
+            <br />
+            The <strong>https://</strong> ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="usa-overlay"></div>
+<header class="ncbi-header" role="banner" data-section="Header">
+
+	<div class="usa-grid">
+		<div class="usa-width-one-whole">
+
+            <div class="ncbi-header__logo">
+                <a href="https://www.ncbi.nlm.nih.gov/" class="logo" aria-label="NCBI Logo" data-ga-action="click_image" data-ga-label="NIH NLM Logo">
+                  <img src="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg" alt="NIH NLM Logo" />
+                </a>
+            </div>
+
+			<div class="ncbi-header__account">
+				<a id="account_login" href="https://account.ncbi.nlm.nih.gov" class="usa-button header-button" style="display:none" data-ga-action="open_menu" data-ga-label="account_menu">Log in</a>
+				<button id="account_info" class="header-button" style="display:none"
+						aria-controls="account_popup">
+					<span class="fa fa-user" aria-hidden="true"></span>
+					<span class="username desktop-only" aria-hidden="true" id="uname_short"></span>
+					<span class="sr-only">Show account info</span>
+				</button>
+			</div>
+
+			<div class="ncbi-popup-anchor">
+				<div class="ncbi-popup account-popup" id="account_popup" aria-hidden="true">
+					<div class="ncbi-popup-head">
+						<button class="ncbi-close-button" data-ga-action="close_menu" data-ga-label="account_menu"><span class="fa fa-times"></span><span class="usa-sr-only">Close</span></button>
+						<h4>Account</h4>
+					</div>
+					<div class="account-user-info">
+						Logged in as:<br/>
+						<b><span class="username" id="uname_long">username</span></b>
+					</div>
+					<div class="account-links">
+						<ul class="usa-unstyled-list">
+							<li><a id="account_myncbi" href="/myncbi/" class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_myncbi">Dashboard</a></li>
+							<li><a id="account_pubs" href="/myncbi/collections/bibliography/" class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_pubs">Publications</a></li>
+							<li><a id="account_settings" href="/account/settings/" class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_settings">Account settings</a></li>
+							<li><a id="account_logout" href="/account/signout/" class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_logout">Log out</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</header>
+<div role="navigation" aria-label="access keys">
+<a id="nws_header_accesskey_0" href="https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys" class="usa-sr-only" accesskey="0" tabindex="-1">Access keys</a>
+<a id="nws_header_accesskey_1" href="https://www.ncbi.nlm.nih.gov" class="usa-sr-only" accesskey="1" tabindex="-1">NCBI Homepage</a>
+<a id="nws_header_accesskey_2" href="/myncbi/" class="set-base-url usa-sr-only" accesskey="2" tabindex="-1">MyNCBI Homepage</a>
+<a id="nws_header_accesskey_3" href="#maincontent" class="usa-sr-only" accesskey="3" tabindex="-1">Main Content</a>
+<a id="nws_header_accesskey_4" href="#" class="usa-sr-only" accesskey="4" tabindex="-1">Main Navigation</a>
+</div>
+<section data-section="Alerts">
+	<div class="ncbi-alerts-placeholder"></div>
+</section>
+<!-- ========== END HEADER ========== -->
+
+    
+    
+        
+        <header class="pmc-header usa-header-extended" role="banner">
+    <div class="pmc-header__bar">
+        <div class="pmc-header__control usa-accordion">
+            
+                <button class="usa-menu-btn pmc-header--button pmc-header--left">
+                    <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+                </button>
+            
+
+            <div class="usa-logo pmc-header__logo pmc-header--stretch
+                
+               " id="extended-mega-logo">
+                <div class="usa-logo-text">
+                    <a href="/pmc/" title="Home" aria-label="Home" ></a>
+                </div>
+            </div>
+            <button class="usa-accordion-button pmc-header--right pmc-header--button pmc-header__search--control pmc-header--right" aria-expanded="false" aria-controls="a1">
+                <i class="fa fa-search" aria-hidden="true"></i>
+                <i class="fa fa-times" aria-hidden="true"></i>
+            </button>
+        </div>
+        <div class="pmc-header__search usa-accordion-content" id="a1">
+            <div role="search"  class="pmc-header--stretch"  >
+    <form class="usa-search " autocomplete="off">
+        <div>
+              <label class="usa-sr-only" for="pmc-search">Search PMC Full-Text Archive</label>
+              <span class="clearable">
+                <input
+                  required="required"
+                  autocomplete-url="/pmc/autocomplete/pmc/"
+                  placeholder="Search PMC Full-Text Archive"
+                  id="pmc-search" type="search" name="term"/>
+                  <i class="clear-btn" ></i>
+              </span>
+              <button type="submit" formaction="/pmc/">
+                <span class="usa-search-submit-text">Search in PMC</span>
+              </button>
+        </div>
+    </form>
+</div>
+
+
+            <ul class="usa-unstyled-list usa-nav-secondary-links pmc-header--offset-two">
+                    <li>
+                        <a href="https://www.ncbi.nlm.nih.gov/pmc/advanced" data-ga-action="featured_link" data-ga-label="advanced_search">
+                            Advanced Search
+                        </a>
+                    </li>
+                    <li>
+                        <a  href="/pmc/about/userguide/" data-ga-action="featured_link"
+                        data-ga-label="user guide">
+                            User Guide
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+     <nav role="navigation" class="usa-nav ">
+        <button class="usa-nav-close">
+            <i class="fa fa-times" aria-hidden="true"></i>
+        </button>
+        <div class="usa-breadcrumb usa-breadcrumb--wrap usa-breadcrumb--hack">
+             
+    <ul class="usa-breadcrumb__list">
+            
+                <li class="usa-breadcrumb__list-item"
+                    >
+                    <a href="/pmc/journals/" class="navlink">Journal List</a>
+                </li>
+            
+                <li class="usa-breadcrumb__list-item"
+                    >
+                    <a class="navlink" href="/pmc/journals/388/">Trials</a>
+                </li>
+            
+                <li class="usa-breadcrumb__list-item"
+                    >
+                    <a class="navlink" href="/pmc/issues/161278/">v.9; 2008</a>
+                </li>
+            
+                <li class="usa-breadcrumb__list-item"
+                     aria-current="page" >
+                    PMC2266700
+                </li>
+            
+    </ul>
+ 
+
+        </div>
+        
+        
+            <div class="pmc-sidebar pmc-sidebar-hack">
+                
+
+<div class="scroller">
+
+    
+        <section>
+                <h6>Other Formats</h6>
+                <ul class="pmc-sidebar__formats">
+                  <li class="pubreader-link other_item"><a href="/pmc/articles/PMC2266700/?report=reader" class="sidefm-pmclink">PubReader</a></li>
+<li class="pdf-link other_item"><a href="/pmc/articles/PMC2266700/pdf/1745-6215-9-9.pdf" class="int-view">PDF (298K)</a></li>
+                </ul>
+        </section>
+    
+    <section>
+        <h6>Actions</h6>
+        <ul class="pmc-sidebar__actions">
+            <li>
+                <button role="button" class="citation-button citation-dialog-trigger ctxp"
+                        aria-label="Open dialog with citation text in different styles" data-ga-category="save_share" data-ga-action="cite" data-ga-label="open"
+                        data-all-citations-url="/pmc/resources/citations/2266700/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/pmc/resources/citations/2266700/export/"
+                >
+                    <span class="button-label">Cite</span>
+                </button>
+            </li>
+            <li>
+                
+                    
+
+<div class="collections-button-container" data-article-id="2266700" data-article-db="pmc">
+  <button class="collections-button collections-dialog-trigger"
+          aria-label="Save article in MyNCBI collections."
+          data-ga-category="collections_button"
+          data-ga-action="click"
+          data-ga-label="collections_button"
+          data-collections-open-dialog-enabled="false"
+          data-collections-open-dialog-url="https://www.ncbi.nlm.nih.gov/account?back_url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2266700%2F%23open-collections-dialog"
+          data-in-collections="false">
+      <span class="button-label">Collections</span>
+  </button>
+  <div class="overlay" role="dialog">
+  <div id="collections-action-dialog"
+       class="dialog collections-dialog"
+       aria-hidden="true">
+    <div class="title">Add to Collections</div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/pmc/list-existing-collections/"
+      data-add-to-existing-collection-url="/pmc/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/pmc/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+  <input type="hidden" name="csrfmiddlewaretoken" value="omF8ONgHN5Y7YFjW9hjb52hkebJ8hFnTT9TolTHgEm8UYwj8ykLZ1WfGa65s2Ony">
+
+  
+
+  <div class="choice-group" role="radiogroup">
+    <ul class="radio-group-items">
+      <li>
+        <input type="radio"
+               id="collections-action-dialog-new-header "
+               class="collections-new"
+               name="collections"
+               value="new"
+               data-ga-category="collections_button"
+               data-ga-action="click"
+               data-ga-label="collections_radio_new">
+        <label for="collections-action-dialog-new-header ">Create a new collection</label>
+      </li>
+      <li>
+        <input type="radio"
+               id="collections-action-dialog-existing-header "
+               class="collections-existing"
+               name="collections"
+               value="existing"
+               checked="true"
+               data-ga-category="collections_button"
+               data-ga-action="click"
+               data-ga-label="collections_radio_existing">
+        <label for="collections-action-dialog-existing-header ">Add to an existing collection</label>
+      </li>
+    </ul>
+  </div>
+
+  <div class="controls-wrapper">
+    <div class="action-panel-control-wrap new-collections-controls">
+      <label for="collections-action-dialog-add-to-new" class="action-panel-label required-field-asterisk">
+        Name your collection:
+      </label>
+      <input
+        type="text"
+        name="add-to-new-collection"
+        id="collections-action-dialog-add-to-new"
+        class="collections-action-add-to-new"
+        pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+        maxlength=""
+        data-ga-category="collections_button"
+        data-ga-action="create_collection"
+        data-ga-label="non_favorties_collection">
+      <div class="collections-new-name-too-long usa-input-error-message selection-validation-message">
+        Name must be less than  characters
+      </div>
+    </div>
+    <div class="action-panel-control-wrap existing-collections-controls">
+      <label for="collections-action-dialog-add-to-existing" class="action-panel-label">
+        Choose a collection:
+      </label>
+      <select id="collections-action-dialog-add-to-existing"
+              class="action-panel-selector collections-action-add-to-existing"
+              data-ga-category="collections_button"
+              data-ga-action="select_collection"
+              data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+      </select>
+      <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+        Unable to load your collection due to an error<br>
+        <a href="#">Please try again</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="action-panel-actions">
+    <button class="action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+      Add
+    </button>
+    <button class="action-panel-cancel"
+            aria-label="Close 'Add to Collections' panel"
+            ref="linksrc=close_collections_panel"
+            aria-controls="collections-action-panel"
+            aria-expanded="false"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="cancel">
+      Cancel
+    </button>
+  </div>
+</form>
+    </div>
+  </div>
+</div>
+</div>
+                
+            </li>
+
+        </ul>
+    </section>
+    
+        <section class="social-sharing">
+            <h6>Share</h6>
+            <ul class="pmc-sidebar__share">
+                <li><a class="fa-stack fa-lg" target="_blank" rel="noopener noreferrer" role="button" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2266700%2F&amp;text=A%20study%20to%20assess%20changes%20in%20myocardial%20perfusion%20after%20treatment%20with%20spinal%20cord%20stimulation%20and%20percutaneous%20..." alt="Share on Twitter"><i class="fa fa-twitter fa-stack-1x">&#160;</i></a></li> 
+<li><a class="fa-stack fa-lg" target="_blank" rel="noopener noreferrer" role="button" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2266700%2F" alt="Share on Facebook"><i class="fa fa-facebook fa-stack-1x">&#160;</i></a></li>
+                <li>
+                    <div class="share-permalink">
+                        <button class="trigger"  alt="Show article permalink" aria-expanded="false" aria-haspopup="true">
+                            <i class="fa-stack fa-lg" >
+                                <i class="fa fa-link fa-stack-1x">&nbsp;</i>
+                            </i>
+                        </button>
+                        <div class="dropdown dropdown-container" hidden>
+                              <div class="title">
+                                Permalink
+                              </div>
+                              <div class="content">
+                                  <input type="text" class="permalink-text" value="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266700/" aria-label="Article permalink"><button class="permalink-copy-button usa-button-primary" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                                      <span class="button-title">Copy</span>
+                                  </button>
+                              </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </section>
+    
+    <section>
+        <h6>RESOURCES</h6>
+        <ul class="pmc-sidebar__resources">
+        
+            <li>
+                <div class="usa-accordion">
+                    <button
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_similar_articles"
+                            data-ga-label="/pmc/articles/PMC2266700/"
+                            class="usa-accordion-button"
+                            aria-controls="similar-articles-accordion-header"
+                            aria-expanded="false"
+                            data-action-open="open_similar_articles"
+                            data-action-close="close_similar_articles"
+                    >
+                        Similar articles
+                    </button>
+                    <div
+                            
+                                data-source-url="/pmc/resources/similar-article-links/18304366/"
+                            
+
+                         class="usa-accordion-content pmc-sidebar__resources--citations" id="similar-articles-accordion-header" aria-hidden="true">
+                        
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="usa-accordion">
+                    <button
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_cited_by"
+                            data-ga-label="/pmc/articles/PMC2266700/"
+                            class="usa-accordion-button"
+                            aria-controls="cited-by-accordion-header"
+                            aria-expanded="false"
+                            data-action-open="open_cited_by"
+                            data-action-close="close_cited_by"
+                    >
+                        Cited by other articles
+                    </button>
+                    <div
+                            
+                                data-source-url="/pmc/resources/cited-by-links/18304366/"
+                            
+                            class="usa-accordion-content pmc-sidebar__resources--citations"
+                            id="cited-by-accordion-header"
+                            aria-hidden="true"
+                    >
+                        
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="usa-accordion">
+                    <button
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/pmc/articles/PMC2266700/"
+                            class="usa-accordion-button"
+                            aria-controls="links-accordion-header"
+                            aria-expanded="false"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                    >
+                        Links to NCBI Databases
+                    </button>
+                    <div data-source-url="/pmc/resources/db-links/2266700/" class="usa-accordion-content" id="links-accordion-header" aria-hidden="true"></div>
+                </div>
+            </li>
+
+            
+        
+        </ul>
+    </section>
+
+ </div>
+            </div>
+        
+
+    </nav>
+
+</header>
+
+    
+    
+
+    <div class="usa-overlay"></div>
+    
+<main id="main-content" class="usa-grid usa-layout-docs pmc-main">
+    <article class="usa-width-three-fourths usa-layout-docs-main_content pmc-article">
+        <section class="usa-breadcrumb usa-breadcrumb--wrap">
+         
+    <ul class="usa-breadcrumb__list">
+            
+                <li class="usa-breadcrumb__list-item"
+                    >
+                    <a href="/pmc/journals/" class="navlink">Journal List</a>
+                </li>
+            
+                <li class="usa-breadcrumb__list-item"
+                    >
+                    <a class="navlink" href="/pmc/journals/388/">Trials</a>
+                </li>
+            
+                <li class="usa-breadcrumb__list-item"
+                    >
+                    <a class="navlink" href="/pmc/issues/161278/">v.9; 2008</a>
+                </li>
+            
+                <li class="usa-breadcrumb__list-item"
+                     aria-current="page" >
+                    PMC2266700
+                </li>
+            
+    </ul>
+ 
+
+        </section>
+        
+  <div class="pmc-article__disclaimer" role="complementary" aria-label="Disclaimer note">
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.<br/>
+    Learn more:
+    <a data-ga-category="Link click" data-ga-action="Disclaimer" data-ga-label="New disclaimer box" href="/pmc/about/disclaimer/">PMC Disclaimer</a>
+    |
+    <a data-ga-category="Link click" data-ga-action="PMC Copyright Notice" data-ga-label="New disclaimer box" href="/pmc/about/copyright/">
+        PMC Copyright Notice
+    </a>
+</div>
+
+        <section class="pmc-page-banner" role="banner">
+            
+                
+                    <div><img src="/corehtml/pmc/pmcgifs/logo-trials.png" alt="Logo of trials" usemap="#logo-imagemap" /><map id="logo-imagemap" name="logo-imagemap"><area alt="Link to Publisher's site" title="Link to Publisher's site" shape="default" coords="0,0,499,74" href="https://trialsjournal.biomedcentral.com/" target="_blank" rel="noopener noreferrer" ref="reftype=publisher&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A" /></map></div> 
+                
+            
+        </section>
+        <section  role="document">
+            
+                <div id="mc" class=" article lit-style content pmc-wm slang-all page-box"><!--main-content--><div class="jig-ncbiinpagenav" data-jigconfig="smoothScroll: false, allHeadingLevels: ['h2'], headingExclude: ':hidden,.nomenu'"><div class="fm-sec half_rhythm no_top_margin"><div class="fm-flexbox"><div class="fm-citation"><div class="citation-default"><div class="part1"><span id="pmcmata">Trials.</span> 2008; 9: 9. </div><div class="part2"><span class="fm-vol-iss-date">Published online 2008 Feb 28. </span>  <span class="doi"><span>doi: </span><a href="//doi.org/10.1186%2F1745-6215-9-9" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CFront%20Matter&amp;TO=Content%20Provider%7CCrosslink%7CDOI">10.1186/1745-6215-9-9</a></span></div></div></div><div class="fm-ids"><div class="fm-citation-pmcid"><span class="fm-citation-ids-label">PMCID: </span><span>PMC2266700</span></div><div class="fm-citation-pmid">PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/18304366">18304366</a></div></div></div><h1 class="content-title">A study to assess changes in myocardial perfusion after treatment with spinal cord stimulation and percutaneous myocardial laser revascularisation; data from a randomised trial</h1><div class="half_rhythm"><div class="contrib-group fm-author"><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Khan%20SN%5BAuthor%5D" id="A1" class="affpopup" co-rid="_co_idm139816601102928" co-class="co-affbox">Sadia N Khan</a>,<sup>1</sup> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=McNab%20DC%5BAuthor%5D" id="A2" class="affpopup" co-rid="_co_idm139816600597616" co-class="co-affbox">Duncan C McNab</a>,<sup>1</sup> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Sharples%20LD%5BAuthor%5D" id="A3" class="affpopup" co-rid="_co_idm139816602477760" co-class="co-affbox">Linda D Sharples</a>,<sup>2,</sup><sup>3</sup> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Freeman%20CJ%5BAuthor%5D" id="A4" class="affpopup" co-rid="_co_idm139816604387696" co-class="co-affbox">Carol J Freeman</a>,<sup>3</sup> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hardy%20I%5BAuthor%5D" id="A5" class="affpopup" co-rid="_co_idm139816599481248" co-class="co-affbox">Ian Hardy</a>,<sup>4</sup> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Stone%20DL%5BAuthor%5D" id="A6" class="affpopup" co-rid="_co_idm139816595406592" co-class="co-affbox">David L Stone</a>,<sup>1</sup> and  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Schofield%20PM%5BAuthor%5D" id="A7" class="affpopup" co-rid="_co_idm139816602045296" co-class="co-affbox">Peter M Schofield</a><sup><img src="/corehtml/pmc/pmcgifs/corrauth.gif" alt="corresponding author" /></sup><sup>1</sup></div><div style="display:none" class="contrib-group aff-tip"><div id="_co_idm139816601102928"><h3 class="no_margin">Sadia N Khan</h3><p><sup>1</sup>Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK</p><div>Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Khan%20SN%5BAuthor%5D">Sadia N Khan</a></div></div><div id="_co_idm139816600597616"><h3 class="no_margin">Duncan C McNab</h3><p><sup>1</sup>Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK</p><div>Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=McNab%20DC%5BAuthor%5D">Duncan C McNab</a></div></div><div id="_co_idm139816602477760"><h3 class="no_margin">Linda D Sharples</h3><p><sup>2</sup>MRC Biostatistics Unit, Robinson Way, Cambridge, UK</p><p><sup>3</sup>Department of Research and Development, Papworth Hospital, Papworth Everard, Cambridge, UK</p><div>Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Sharples%20LD%5BAuthor%5D">Linda D Sharples</a></div></div><div id="_co_idm139816604387696"><h3 class="no_margin">Carol J Freeman</h3><p><sup>3</sup>Department of Research and Development, Papworth Hospital, Papworth Everard, Cambridge, UK</p><div>Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Freeman%20CJ%5BAuthor%5D">Carol J Freeman</a></div></div><div id="_co_idm139816599481248"><h3 class="no_margin">Ian Hardy</h3><p><sup>4</sup>Department of Anaesthetics, Papworth Hospital, Papworth Everard, Cambridge, UK</p><div>Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hardy%20I%5BAuthor%5D">Ian Hardy</a></div></div><div id="_co_idm139816595406592"><h3 class="no_margin">David L Stone</h3><p><sup>1</sup>Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK</p><div>Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Stone%20DL%5BAuthor%5D">David L Stone</a></div></div><div id="_co_idm139816602045296"><h3 class="no_margin">Peter M Schofield</h3><p><sup>1</sup>Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK</p><div>Find articles by <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Schofield%20PM%5BAuthor%5D">Peter M Schofield</a></div></div></div></div><div class="half_rhythm"><div class="togglers fm-copyright-license"><a href="#" class="pmctoggle" rid="idm139816601271232_ai">Author information</a> <a href="#" class="pmctoggle" rid="idm139816601271232_an">Article notes</a> <a href="#" class="pmctoggle" rid="idm139816601271232_cpl">Copyright and License information</a> <a href="/pmc/about/disclaimer/" style="margin-left: 1em">PMC Disclaimer</a></div><div class="fm-authors-info hide half_rhythm" id="idm139816601271232_ai" style="display:none"><div class="fm-affl" id="I1"><sup>1</sup>Department of Cardiology, Papworth Hospital, Papworth Everard, Cambridge, UK</div><div class="fm-affl" id="I2"><sup>2</sup>MRC Biostatistics Unit, Robinson Way, Cambridge, UK</div><div class="fm-affl" id="I3"><sup>3</sup>Department of Research and Development, Papworth Hospital, Papworth Everard, Cambridge, UK</div><div class="fm-affl" id="I4"><sup>4</sup>Department of Anaesthetics, Papworth Hospital, Papworth Everard, Cambridge, UK</div><div><sup><img src="/corehtml/pmc/pmcgifs/corrauth.gif" alt="corresponding author" /></sup>Corresponding author.</div><div><span class="contrib-email" id="A1">Sadia N Khan: <a href="mailto:dev@null" data-email="ku.shn.htrowpap@nahk.aidas" class="oemail">ku.shn.htrowpap@nahk.aidas</a>; </span> <span class="contrib-email" id="A2">Duncan C McNab: <a href="mailto:dev@null" data-email="ku.shn.htrowpap@bancm.nacnud" class="oemail">ku.shn.htrowpap@bancm.nacnud</a>; </span> <span class="contrib-email" id="A3">Linda D Sharples: <a href="mailto:dev@null" data-email="ku.shn.htrowpap@selprahs.adnil" class="oemail">ku.shn.htrowpap@selprahs.adnil</a>; </span> <span class="contrib-email" id="A4">Carol J Freeman: <a href="mailto:dev@null" data-email="ku.shn.htrowpap@nameerf.lorac" class="oemail">ku.shn.htrowpap@nameerf.lorac</a>; </span> <span class="contrib-email" id="A5">Ian Hardy: <a href="mailto:dev@null" data-email="ku.shn.htrowpap@ydrah.nai" class="oemail">ku.shn.htrowpap@ydrah.nai</a>; </span> <span class="contrib-email" id="A6">David L Stone: <a href="mailto:dev@null" data-email="ku.shn.htrowpap@enots.divad" class="oemail">ku.shn.htrowpap@enots.divad</a>; </span> <span class="contrib-email" id="A7">Peter M Schofield: <a href="mailto:dev@null" data-email="ku.shn.htrowpap@dleifohcs.retep" class="oemail">ku.shn.htrowpap@dleifohcs.retep</a></span> </div></div><div class="fm-article-notes hide half_rhythm" id="idm139816601271232_an" style="display:none"><div class="fm-pubdate half_rhythm">Received 2007 Oct 24; Accepted 2008 Feb 28.</div></div><div class="permissions half_rhythm hide" id="idm139816601271232_cpl" style="display:none"><div class="fm-copyright half_rhythm"><a href="/pmc/about/copyright/">Copyright</a>  &#x000a9; 2008 Khan et al; licensee BioMed Central Ltd.</div><div class="license half_rhythm"><p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<a href="http://creativecommons.org/licenses/by/2.0" data-ga-action="click_feat_suppl" ref="reftype=extlink&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CFront%20Matter&amp;TO=External%7CLink%7CURI" target="_blank">http://creativecommons.org/licenses/by/2.0</a>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p></div></div></div><div id="pmclinksbox" class="links-box whole_rhythm hidden" role="complementary" aria-label="Related or updated information about this article."></div></div><div class="sec"></div><div id="abstract-a.m.b.s" lang="en" class="tsec sec"><h2 class="head no_bottom_margin" id="abstract-a.m.b.stitle">Abstract</h2><!--article-meta--><div><div id="sec-a.m.b.s.a" class="sec sec-first"><h3 id="sec-a.m.b.s.atitle">Background</h3><p class="p p-first-last">Spinal cord stimulation (SCS) and percutaneous myocardial laser revascularisation (PMR) are treatment modalities used to treat refractory angina pectoris, with the major aim of such treatment being the relief of disabling symptoms. This study compared the change in myocardial perfusion following SCS and PMR treatment.</p></div><div id="sec-a.m.b.s.b" class="sec"><h3 id="sec-a.m.b.s.btitle">Methods</h3><p class="p p-first-last">Subjects with Canadian Cardiovascular Society class 3/4 angina and reversible perfusion defects as assessed by single-photon emission computed tomographic myocardial perfusion scintigraphy were randomised to SCS (34) or PMR (34). 28 subjects in each group underwent repeat myocardial perfusion imaging 12 months post intervention. Visual scoring of perfusion images was performed using a 20-segment model and a scale of 0 to 4.</p></div><div id="sec-a.m.b.s.c" class="sec"><h3 id="sec-a.m.b.s.ctitle">Results</h3><p class="p p-first-last">The mean (standard deviation) baseline summed rest score (SRS) and stress scores (SSS) were 4.6 (5.7) and 13.6 (9.0) in the PMR group and 6.1 (7.4) and 16.8 (11.6) in the SCS group. At 12 months, SRS was 5.5 (6.0) and SSS 15.3 (11.3) in the PMR group and 6.9 (8.2) and 15.1 (10.9) in the SCS group. There was no significant difference between the two treatment groups adjusted for baseline (p = 1.0 for SRS, p = 0.29 for SSS).</p></div><div id="sec-a.m.b.s.d" class="sec sec-last"><h3 id="sec-a.m.b.s.dtitle">Conclusion</h3><p class="p p-first-last">There was no significant difference in myocardial perfusion one year post treatment with SCS or PMR.</p></div></div></div><div id="sec-a.n.a" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.atitle">Introduction</h2><p class="p p-first-last">The SPiRiT trial is an open label, single-centre, parallel group randomised trial comparing percutaneous myocardial laser revascularisation (PMR) with spinal cord stimulation (SCS) in patients with refractory angina pectoris [<a href="#B1" rid="B1" class=" bibr popnode">1</a>]. These techniques have been shown to improve symptom control [<a href="#B2" rid="B2" class=" bibr popnode">2</a>-<a href="#B6" rid="B6" class=" bibr popnode">6</a>] in this group, although there is debate as to the mechanisms underlying the clinical response [<a href="#B7" rid="B7" class=" bibr popnode">7</a>-<a href="#B10" rid="B10" class=" bibr popnode">10</a>]. In accordance with the previous studies on laser revascularisation carried out at this institution [<a href="#B2" rid="B2" class=" bibr popnode">2</a>,<a href="#B3" rid="B3" class=" bibr popnode">3</a>,<a href="#B11" rid="B11" class=" bibr popnode">11</a>] and with the recommendations of the European Society of Cardiology Joint Study Group [<a href="#B12" rid="B12" class=" bibr popnode">12</a>], the presence of a reversible perfusion defect was an inclusion criterion for this study. Perfusion imaging was repeated 12 months post intervention in order to determine whether SCS and PMR treatment lead to an improvement in perfusion, a possible mechanism of action of these therapeutic modalities, and whether such change correlated with change in angina score as measured by CCS class.</p></div><div id="sec-a.n.b" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.btitle">Methods</h2><p class="p p-first">The inclusion/exclusion criteria and methods of the SPiRiT trial have been previously reported [<a href="#B1" rid="B1" class=" bibr popnode">1</a>]. Briefly, this open label, single centre, parallel group randomised controlled trial was carried out in a tertiary referral centre for patients with cardiovascular disease. The main inclusion criteria were limiting angina despite maximally tolerated antianginal medication, angiographically documented coronary disease unsuitable for conventional revascularisation (this judgement was made by a Consultant Interventional Cardiologist in conjunction with the referring Consultant Cardiologist/Cardiothoracic surgeon) and reversible ischaemia on Tc-99m sestamibi scanning. Exclusion criteria included myocardial wall thickness &#x0003c; 8 mm in the areas to be treated by PMR, implanted pacemakers or defibrillators or comorbidity that was considered by the assessing clinician to be of greater significance than angina pectoris. Ethical approval was obtained from Huntingdon Local Research Ethics Committee (reference H00/557) prior to study commencement and all subjects gave informed consent in accordance with the Declaration of Helsinki.</p><p class="p">68 subjects were randomised, of whom 34 were treated with SCS and 34 with PMR. Perfusion scanning was performed at baseline and 12 months post intervention. A 2-day protocol was followed. The rest scan was performed with 400 MBq of Tc-99m sestamibi being injected into a peripheral vein whilst the patient was in a fasted state. Pharmacological stress was performed with adenosine at an infusion rate of 140 mcg/kg/min for 6 minutes used as the stress agent in more than 90% of cases. The same dose of Tc-99m sestamibi was administered 3 minutes into the infusion. Dobutamine was used as an alternative stress agent in subjects with significant reversible airways disease. The same stress agent was used for the pre- and post-treatment scans for each individual patient. All scans were performed a minimum of one hour after injection after a fatty meal. A single-headed Elscint Apex SP4 gamma camera with a low energy collimator, a 64 &#x000d7; 64 matrix and a 6.9 mm pixel size (Elscint Ltd, Haifa, Israel) was used. Acquisitions were obtained in step and shoot mode, with 64 projections over a 180-degree circular orbit, with a three-degree increment, a matrix size of 64 &#x000d7; 64 and 18 seconds/projection. The studies were reconstructed using filtered backprojection without attenuation or scatter correction and realigned along the heart axis.</p><div id="sec-a.n.b.d" class="sec"><h3 id="sec-a.n.b.dtitle">Scintigraphic image analysis</h3><p class="p p-first">For perfusion analysis the left ventricle was divided into 20 segments, with 3 radial layers of 6 segments and two apical segments. All images were visually assessed by consensus of 2 experienced observers blinded to clinical data. Perfusion was scored semiquantitatively using a 5-point scale (0 = normal uptake; 1 = equivocal uptake; 2 = moderately reduced uptake; 3 = severely reduced uptake and 4 = no uptake) [<a href="#B13" rid="B13" class=" bibr popnode">13</a>,<a href="#B14" rid="B14" class=" bibr popnode">14</a>]. The summed stress score (SSS) and the summed rest score (SRS) were defined as the sum of all the scores on the stress and rest images respectively with the summed difference score (SDS) being the difference between the SSS and the SRS. These scores were calculated for each patient at baseline and at 1-year follow-up. An example from a subject treated with PMR is shown in Figure <a href="/pmc/articles/PMC2266700/figure/F1/" target="figure" class="fig-table-link figpopup" rid-figpopup="F1" rid-ob="ob-F1" co-legend-rid="lgnd_F1"><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -3em;">Figure1</span></span><span>1</span></a>.</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm" id="F1" co-legend-rid="lgnd_F1"><a href="/pmc/articles/PMC2266700/figure/F1/" target="figure" rid-figpopup="F1" rid-ob="ob-F1"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div class="figure" data-largeobj="" data-largeobj-link-rid="largeobj_idm139816600592288"><img loading="lazy" class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is 1745-6215-9-9-1.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is 1745-6215-9-9-1.jpg" src="/pmc/articles/PMC2266700/bin/1745-6215-9-9-1.jpg" /></div><div class="largeobj-link align_right" id="largeobj_idm139816600592288"><a target="object" rel="noopener" href="/pmc/articles/PMC2266700/figure/F1/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_F1"><div><a class="figpopup" href="/pmc/articles/PMC2266700/figure/F1/" target="figure" rid-figpopup="F1" rid-ob="ob-F1">Figure 1</a></div><!--caption a7--><div class="caption"><p>Example Scintigraphic Rest and Stress Images pre (upper panel) and 1-year post treatment (lower panel) with PMR to the anterior wall.</p></div></div></div></div><div id="sec-a.n.b.e" class="sec sec-last"><h3 id="sec-a.n.b.etitle">Statistical analysis</h3><p class="p p-first-last">The CCS class was compared using the Mantel-Haenszel test with class as a linear trend. Significant improvement in CCS was defined as at least a 2-class decrease and the proportion of patients who had a significant improvement in each group was compared using Fisher's exact test. The SSS, SRS and SDS were summarised as the mean and standard deviation for each group. In order to assess the effect of treatment on these scores generalised linear models with normal link were used with baseline score and group as independent variables and one-year score as the dependent variable. The treatment effect and 95% confidence intervals from these models are reported. Since the distributions of the scores were not completely symmetrical these results were re-assessed against the results of Mann-Whitney U tests, comparing the two groups for differences between baseline and one year.</p></div></div><div id="sec-a.n.c" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.ctitle">Results</h2><div id="sec-a.n.c.b" class="sec sec-first"><h3 id="sec-a.n.c.btitle">Patient characteristics</h3><p class="p p-first">Baseline and follow-up imaging was available in 56 patients (28 in each group). The commonest reasons for failure to complete follow-up scanning were withdrawal from the study or patient refusal. The baseline characteristics are as shown in table <a href="/pmc/articles/PMC2266700/table/T1/" target="table" class="fig-table-link figpopup" rid-figpopup="T1" rid-ob="ob-T1" co-legend-rid=""><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -2.5em;">table1.</span></span><span>1</span></a>. Analysis of the baseline studies from the 12 patients who did not undergo repeat scanning at one year did not suggest that these patients differed significantly from the group as a whole. Antianginal medication did not change during the period of follow-up.</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap anchored whole_rhythm" id="T1"><h3>Table 1</h3><!--caption a7--><div class="caption"><p>Baseline Characteristics</p></div><div class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><td rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">PMR (n = 28)</td><td align="center" rowspan="1" colspan="1">SCS (n = 28)</td></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">Mean age in years (SD)</td><td align="center" rowspan="1" colspan="1">62.3 (9.7)</td><td align="center" rowspan="1" colspan="1">64.4 (7.5)</td></tr><tr><td align="center" rowspan="1" colspan="1">Previous revascularisation</td><td align="center" rowspan="1" colspan="1">28 (100%)</td><td align="center" rowspan="1" colspan="1">28 (100%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Baseline medication</td><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"></td></tr><tr><td align="center" rowspan="1" colspan="1">Beta-blockers</td><td align="center" rowspan="1" colspan="1">22 (79%)</td><td align="center" rowspan="1" colspan="1">23 (82%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Calcium channel blockers</td><td align="center" rowspan="1" colspan="1">22 (79%)</td><td align="center" rowspan="1" colspan="1">23 (82%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Aspirin</td><td align="center" rowspan="1" colspan="1">24 (86%)</td><td align="center" rowspan="1" colspan="1">26 (93%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Nicorandil</td><td align="center" rowspan="1" colspan="1">26 (93%)</td><td align="center" rowspan="1" colspan="1">24 (86%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Long-acting nitrates</td><td align="center" rowspan="1" colspan="1">23 (82%)</td><td align="center" rowspan="1" colspan="1">21 (75%)</td></tr><tr><td align="center" rowspan="1" colspan="1">ACE -inhibitors</td><td align="center" rowspan="1" colspan="1">13 (46%)</td><td align="center" rowspan="1" colspan="1">14 (50%)</td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="center" rowspan="1" colspan="1">Follow-up medication</td><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"></td></tr><tr><td align="center" rowspan="1" colspan="1">Beta-blockers</td><td align="center" rowspan="1" colspan="1">20 (71%)</td><td align="center" rowspan="1" colspan="1">24 (86%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Calcium channel blockers</td><td align="center" rowspan="1" colspan="1">20 (71%)</td><td align="center" rowspan="1" colspan="1">23 (82%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Aspirin</td><td align="center" rowspan="1" colspan="1">23 (82%)</td><td align="center" rowspan="1" colspan="1">23 (82%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Nicorandil</td><td align="center" rowspan="1" colspan="1">25 (89%)</td><td align="center" rowspan="1" colspan="1">22 (79%)</td></tr><tr><td align="center" rowspan="1" colspan="1">Long-acting nitrates</td><td align="center" rowspan="1" colspan="1">23 (82%)</td><td align="center" rowspan="1" colspan="1">22 (79%)</td></tr><tr><td align="center" rowspan="1" colspan="1">ACE &#x02013; inhibitors</td><td align="center" rowspan="1" colspan="1">13 (46%)</td><td align="center" rowspan="1" colspan="1">15 (54 %)</td></tr></tbody></table></div><div class="largeobj-link align_right" id="largeobj_idm139816643972384"><a target="object" rel="noopener" href="/pmc/articles/PMC2266700/table/T1/?report=objectonly">Open in a separate window</a></div></div><p>At baseline, all patients were in CCS class 3 or 4. Nineteen (68%) of PMR and 17 (61%) of SCS patients were in class 3 (p = 0.781). At one year more SCS patients were in CCS class 1 or 2 (Table <a href="/pmc/articles/PMC2266700/table/T2/" target="table" class="fig-table-link figpopup" rid-figpopup="T2" rid-ob="ob-T2" co-legend-rid=""><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -3em;">(Table2)</span></span><span>2</span></a>) and the difference was marginally significant at the traditional level (p = 0.059).</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap anchored whole_rhythm" id="T2"><h3>Table 2</h3><!--caption a7--><div class="caption"><p>CCS Class at year one</p></div><div class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><td align="center" rowspan="1" colspan="1">CCS class at 1 year</td><td align="center" rowspan="1" colspan="1">PMR (n = 28)</td><td align="center" rowspan="1" colspan="1">SCS (n = 28)</td></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1 (4%)</td><td align="center" rowspan="1" colspan="1">6 (21%)</td></tr><tr><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">12 (43%)</td><td align="center" rowspan="1" colspan="1">13 (46%)</td></tr><tr><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">7 (25%)</td><td align="center" rowspan="1" colspan="1">4 (14%)</td></tr><tr><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">8 (29%)</td><td align="center" rowspan="1" colspan="1">5 (18%)</td></tr></tbody></table></div><div class="largeobj-link align_right" id="largeobj_idm139816602613056"><a target="object" rel="noopener" href="/pmc/articles/PMC2266700/table/T2/?report=objectonly">Open in a separate window</a></div></div><p class="p">Four PMR patients had a 2-class improvement in CCS compared to nine SCS patients who had a 2 class and 2 who had a 3 -class improvement (Table <a href="/pmc/articles/PMC2266700/table/T3/" target="table" class="fig-table-link figpopup" rid-figpopup="T3" rid-ob="ob-T3" co-legend-rid=""><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -3em;">(Table3).</span></span><span>3</span></a>). Again, the greater proportion of patients with a significant improvement in CCS class in the SCS group was close to significant at traditional levels (p = 0.068).</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap anchored whole_rhythm" id="T3"><h3>Table 3</h3><!--caption a7--><div class="caption"><p>Change in CCS Class</p></div><div class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><td align="center" rowspan="1" colspan="1">Change in CCS at 1 year</td><td align="center" rowspan="1" colspan="1">PMR (n = 28)</td><td align="center" rowspan="1" colspan="1">SCS (n = 28)</td></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">-3</td><td align="center" rowspan="1" colspan="1">0 (0%)</td><td align="center" rowspan="1" colspan="1">2 (7%)</td></tr><tr><td align="center" rowspan="1" colspan="1">-2</td><td align="center" rowspan="1" colspan="1">4 (14%)</td><td align="center" rowspan="1" colspan="1">9 (32%)</td></tr><tr><td align="center" rowspan="1" colspan="1">-1</td><td align="center" rowspan="1" colspan="1">11 (39%)</td><td align="center" rowspan="1" colspan="1">9 (32%)</td></tr><tr><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">9 (32%)</td><td align="center" rowspan="1" colspan="1">6 (21%)</td></tr><tr><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">4 (14%)</td><td align="center" rowspan="1" colspan="1">2 (7%)</td></tr></tbody></table></div><div class="largeobj-link align_right" id="largeobj_idm139816591780240"><a target="object" rel="noopener" href="/pmc/articles/PMC2266700/table/T3/?report=objectonly">Open in a separate window</a></div></div></div><div id="sec-a.n.c.c" class="sec"><h3 id="sec-a.n.c.ctitle">Perfusion results</h3><p class="p p-first">Summed scores were available for 28 PMR and 28 SCS patients at both baseline and one year after treatment. The data are summarised in table <a href="/pmc/articles/PMC2266700/table/T4/" target="table" class="fig-table-link figpopup" rid-figpopup="T4" rid-ob="ob-T4" co-legend-rid=""><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -2.5em;">table4.</span></span><span>4</span></a>. Adjusting for baseline there was no significant difference between treatment groups at one year in SRS (-0.004 (95%CI: -2.1, 2.1), p = 1.00). For the SSS the SCS group was 2.4 lower than the PMR group after adjusting for baseline but this did not reach significance (-2.4 (95% CI: -6.8, 2.0), p = 0.29). Similarly, for the SDS the SCS group was 2.4 lower than the PMR group and again this did not reach statistical significance (-2.4 (95%CI: -6.2, 1.3), p = 0.21). The Mann-Whitney U test gave similar results for all 3 measures.</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap anchored whole_rhythm" id="T4"><h3>Table 4</h3><!--caption a7--><div class="caption"><p>Mean and standard deviation for summed scores by treatment group</p></div><div class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><td align="left" rowspan="1" colspan="1">Variable</td><td align="center" rowspan="1" colspan="1">PMR group (n = 28)</td><td align="center" rowspan="1" colspan="1">SCS group (n = 28)</td></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1"><strong>Baseline</strong></td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="left" rowspan="1" colspan="1">Summed rest score</td><td align="center" rowspan="1" colspan="1">4.6 (5.7)</td><td align="center" rowspan="1" colspan="1">6.1 (7.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Summed stress score</td><td align="center" rowspan="1" colspan="1">13.6 (9.0)</td><td align="center" rowspan="1" colspan="1">16.8 (11.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Summed difference score</td><td align="center" rowspan="1" colspan="1">9.0 (8.4)</td><td align="center" rowspan="1" colspan="1">10.6 (10.2)</td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="left" colspan="3" rowspan="1"><strong>One year</strong></td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="left" rowspan="1" colspan="1">Summed rest score</td><td align="center" rowspan="1" colspan="1">5.5 (6.0)</td><td align="center" rowspan="1" colspan="1">6.9 (8.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Summed stress score</td><td align="center" rowspan="1" colspan="1">15.3 (11.3)</td><td align="center" rowspan="1" colspan="1">15.1 (10.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Summed difference score</td><td align="center" rowspan="1" colspan="1">9.8 (8.7)</td><td align="center" rowspan="1" colspan="1">8.3 (9.1)</td></tr></tbody></table></div><div class="largeobj-link align_right" id="largeobj_idm139816599684864"><a target="object" rel="noopener" href="/pmc/articles/PMC2266700/table/T4/?report=objectonly">Open in a separate window</a></div></div></div><div id="sec-a.n.c.d" class="sec sec-last"><h3 id="sec-a.n.c.dtitle">Adverse Events</h3><p class="p p-first">Sixty-seven non-fatal adverse events were recorded in the first year for the 56 patients with baseline and one year imaging (Table <a href="/pmc/articles/PMC2266700/table/T5/" target="table" class="fig-table-link figpopup" rid-figpopup="T5" rid-ob="ob-T5" co-legend-rid=""><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -3em;">(Table5).</span></span><span>5</span></a>). The SCS group reported significantly more adverse events than the PMR group (p &#x0003c; 0.001). Forty-nine events occurred in 17 patients in the SCS group, with 22 events categorised as being related to the SCS procedure. Eleven patients in the PMR group reported 18 adverse events. Three events were related to the PMR procedure, one of which occurred in a patient randomised to SCS. Of the 42 events not related to the procedure 36 were related to the underlying disease and the difference between the groups was not significant (p = 0.126).</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap anchored whole_rhythm" id="T5"><h3>Table 5</h3><!--caption a7--><div class="caption"><p>Adverse Events reported in the first year</p></div><div class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><td rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">SCS</td><td align="center" rowspan="1" colspan="1">PMR</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1"><span class="underline">Disease related</span></td><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"></td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="left" rowspan="1" colspan="1">Unstable angina</td><td align="center" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">9</td></tr><tr><td align="left" rowspan="1" colspan="1">Myocardial infarction</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Worsening angina</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1"><span class="underline">Total disease related</span></td><td align="center" rowspan="1" colspan="1"><span class="underline">24</span></td><td align="center" rowspan="1" colspan="1"><span class="underline">12</span></td></tr><tr><td align="left" rowspan="1" colspan="1"><span class="underline">SCS related</span></td><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"></td></tr><tr><td align="left" rowspan="1" colspan="1">Infection of SCS system</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Undesirable change in stimulation</td><td align="center" rowspan="1" colspan="1">14</td><td align="center" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Pain at neurostimulator site</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Neurostimulator migration</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Lead migration</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1"><span class="underline">PMR related</span></td><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"></td></tr><tr><td align="left" rowspan="1" colspan="1">Pseudoaneurysm</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Groin haematoma</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="left" rowspan="1" colspan="1"><span class="underline">Other miscellaneous</span></td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">4</td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="left" rowspan="1" colspan="1">TOTAL EVENTS</td><td align="center" rowspan="1" colspan="1">49</td><td align="center" rowspan="1" colspan="1">18</td></tr><tr><td colspan="3" rowspan="1"><hr /></td></tr><tr><td align="left" rowspan="1" colspan="1">Total Events excluding SCS/PMR related</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">16</td></tr></tbody></table></div><div class="largeobj-link align_right" id="largeobj_idm139816605656992"><a target="object" rel="noopener" href="/pmc/articles/PMC2266700/table/T5/?report=objectonly">Open in a separate window</a></div></div></div></div><div id="sec-a.n.d" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.dtitle">Discussion</h2><p class="p p-first">Refractory angina pectoris is an increasingly common clinical problem with significant associated morbidity. Many different treatment modalities have been reported to alleviate symptoms and hence improve quality of life for patients with this condition. When assessing the efficacy of such therapies it is important to acknowledge that because angina is a symptom, it is subjective in nature. This is particularly so in the situation of medical devices, where a significant placebo effect is known to exist [<a href="#B3" rid="B3" class=" bibr popnode">3</a>,<a href="#B4" rid="B4" class=" bibr popnode">4</a>]. Consequently, caution must be exercised in the interpretation of studies based solely upon anginal symptoms, or other subjective endpoints such as hospital admissions, and exercise performance, although from the individual patient's point of view, these endpoints may be the most important.</p><p>Previous data assessing changes in perfusion following both SCS and PMR has been inconclusive. Three PET studies of myocardial perfusion and SCS in humans have been published. Two studies did not demonstrate any increase in the primary outcome measure, total myocardial blood flow following SCS. [<a href="#B15" rid="B15" class=" bibr popnode">15</a>-<a href="#B17" rid="B17" class=" bibr popnode">17</a>] The third study, which only assessed resting flow, reported an increase in total myocardial blood flow. Two of the studies, as part of a secondary analysis, reported "homogenisation of flow" i.e. when comparing regional flow after SCS to baseline results, blood flow increased in regions of low baseline flow and fell in regions of high baseline flow. This flow homogenisation, which was suggested to underpin the beneficial effects of SCS could also be explained by the phenomenon of regression to the mean. Diedrichs et al.[<a href="#B18" rid="B18" class=" bibr popnode">18</a>] reported an improvement in myocardial perfusion in some patients 12 months after treatment with SCS. However, this improvement, unlike improvements in symptom severity, functional capacity and quality of life, was not demonstrated at 3 months rasing the possibility that the perfusion changes were secondary to improved functional capacity. Similarly, following PMR treatment, most clinical studies have failed to show a consistent change in myocardial perfusion to correspond to improvements recorded in angina class and exercise capacity, although investigators have reported improvements in myocardial perfusion some using different laser systems to that used here [<a href="#B8" rid="B8" class=" bibr popnode">8</a>,<a href="#B10" rid="B10" class=" bibr popnode">10</a>,<a href="#B19" rid="B19" class=" bibr popnode">19</a>-<a href="#B21" rid="B21" class=" bibr popnode">21</a>]. Some of these differences may be explained by patient and laser system selection. The laser used in this study was the Cardiogenesis system which differs from the Biosense DMR[<a href="#B21" rid="B21" class=" bibr popnode">21</a>] system in that angiographic and perfusion data are used to identify areas to be treated by laser as opposed to electromechanical mapping of the left ventricular cavity, and in that the DMR laser is a 'contact' system such that the depth of the channels created is significantly less.</p><p class="p p-last">This is the first study to compare change in perfusion in refractory angina for two active treatments. There was no significant difference in perfusion between or within treatment groups at year one. There are several limitations of this study and these may account for this negative finding. Although it is known that the symptoms of refractory angina pectoris remain remarkably constant in most patients [<a href="#B22" rid="B22" class=" bibr popnode">22</a>], it is clear that perfusion defects can vary considerably, independently of study processing variables [<a href="#B23" rid="B23" class=" bibr popnode">23</a>]. In addition, perfusion defects were assessed using adenosine as a selective vasodilator with sestamibi as the tracer agent. Patients with refractory angina often have diffuse coronary artery disease with impaired fractional flow reserve hence it may not be possible to demonstrate a change in perfusion, even in the presence of significant ischaemia. Also, this study was relatively small and was not powered for this secondary outcome measure.</p></div><div id="sec-a.n.e" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.etitle">Conclusion</h2><p class="p p-first-last">In conclusion, this study has not demonstrated a significant change in perfusion one -year post treatment. We would recommend that studies of refractory angina therapies include objective measures of myocardial performance and that consideration be given to techniques other than myocardial perfusion imaging using adenosine as a stressor.</p></div><div id="sec-a.n.f" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.ftitle">Abbreviations</h2><p class="p p-first-last">SCS: spinal cord stimulation, PMR: percutaneous myocardial laser revascularisation, PET: positron emission tomography, SRS: summed rest score, SSS: summed stress score, SDS: summed difference score.</p></div><div id="sec-a.n.g" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.gtitle">Competing interests</h2><p class="p p-first-last">This study was sponsored by Medtronic SA, who were responsible for funding of the trial related investigations such as perfusion scans and treadmill tests, research staff for data collection and travelling expenses for the subjects. The sponsor had no role in study design, data collection and interpretation or in the decision to submit the report for publication.</p></div><div id="sec-a.n.h" class="tsec sec"><h2 class="head no_bottom_margin" id="sec-a.n.htitle">Authors' contributions</h2><p class="p p-first-last">SK carried out perfusion image and data analysis and drafted the manuscript. DM was responsible for patient management, performed SCS and PMR procedures and helped with perfusion data analysis. LDS performed the data analysis, provided statistical support and drafted the manuscript. CJF was responsible for study management, assisted with data analysis and drafting of the report. DLS was responsible for perfusion data acquisition and analysis. IH assisted with patient management particularly SCS system implantation. PMS was responsible for data analysis, patient management, writing of the report and acts as guarantor and chief investigator for this study. All authors read and approved the final manuscript.</p></div><div id="ack-a.o.a" class="tsec sec"><h2 class="head no_bottom_margin" id="ack-a.o.atitle">Acknowledgements</h2><div class="sec"><div id="sec-a.o.a.a" class="sec sec-first"><h3 id="sec-a.o.a.atitle"></h3><p class="p p-first-last">The authors would like to acknowledge the patients who contributed to the study and Ms Juanita Nortje and the Departments of Nuclear Medicine and Research and Development, Papworth Hospital.</p></div></div></div><div id="ref-list-a.o.b" class="tsec sec"><h2 class="head no_bottom_margin" id="ref-list-a.o.btitle">References</h2><div class="ref-list-sec sec" id="reference-list"><ul class="back-ref-list" style="list-style-type:decimal;"><li id="B1"><span class="citation">McNab D, Khan SN, Sharples LD, Ryan JY, Freeman C, Caine N, Tait S, Hardy I, Schofield PM. An open label, single-centre, randomized trial of spinal cord stimulation vs. percutaneous myocardial laser revascularization in patients with refractory angina pectoris: the SPiRiT trial. <span><span class="ref-journal">Eur Heart J. </span>2006;<span class="ref-vol">27</span>:1048–1053. doi: 10.1093/eurheartj/ehi827.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/16554313" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1093%2Feurheartj%2Fehi827" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Eur+Heart+J&amp;title=An+open+label,+single-centre,+randomized+trial+of+spinal+cord+stimulation+vs.+percutaneous+myocardial+laser+revascularization+in+patients+with+refractory+angina+pectoris:+the+SPiRiT+trial&amp;author=D+McNab&amp;author=SN+Khan&amp;author=LD+Sharples&amp;author=JY+Ryan&amp;author=C+Freeman&amp;volume=27&amp;publication_year=2006&amp;pages=1048-1053&amp;pmid=16554313&amp;doi=10.1093/eurheartj/ehi827&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B2"><span class="citation">Gray TJ, Burns SM, Clarke SC, Tait S, Sharples LD, Caine N, Schofield PM. Percutaneous myocardial laser revascularization in patients with refractory angina pectoris. <span><span class="ref-journal">Am J Cardiol. </span>2003;<span class="ref-vol">91</span>:661–666. doi: 10.1016/S0002-9149(02)03303-9.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/12633794" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2FS0002-9149(02)03303-9" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Am+J+Cardiol&amp;title=Percutaneous+myocardial+laser+revascularization+in+patients+with+refractory+angina+pectoris&amp;author=TJ+Gray&amp;author=SM+Burns&amp;author=SC+Clarke&amp;author=S+Tait&amp;author=LD+Sharples&amp;volume=91&amp;publication_year=2003&amp;pages=661-666&amp;pmid=12633794&amp;doi=10.1016/S0002-9149(02)03303-9&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B3"><span class="citation">Oesterle SN, Sanborn TA, Ali N, Resar J, Ramee SR, Heuser R, Dean L, Knopf W, Schofield P, Schaer GL, Reeder G, Masden R, Yeung AC, Burkhoff D. Percutaneous transmyocardial laser revascularisation for severe angina: the PACIFIC randomised trial. Potential Class Improvement From Intramyocardial Channels. <span><span class="ref-journal">Lancet. </span>2000;<span class="ref-vol">356</span>:1705–1710. doi: 10.1016/S0140-6736(00)03203-7.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/11095257" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2FS0140-6736(00)03203-7" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Lancet&amp;title=Percutaneous+transmyocardial+laser+revascularisation+for+severe+angina:+the+PACIFIC+randomised+trial.+Potential+Class+Improvement+From+Intramyocardial+Channels&amp;author=SN+Oesterle&amp;author=TA+Sanborn&amp;author=N+Ali&amp;author=J+Resar&amp;author=SR+Ramee&amp;volume=356&amp;publication_year=2000&amp;pages=1705-1710&amp;pmid=11095257&amp;doi=10.1016/S0140-6736(00)03203-7&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B4"><span class="citation">Salem M, Rotevatn S, Nordrehaug JE. Long-term results following percutaneous myocardial laser therapy. <span><span class="ref-journal">Coron Artery Dis. </span>2006;<span class="ref-vol">17</span>:385–390. doi: 10.1097/00019501-200606000-00010.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/16707963" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1097%2F00019501-200606000-00010" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Coron+Artery+Dis&amp;title=Long-term+results+following+percutaneous+myocardial+laser+therapy&amp;author=M+Salem&amp;author=S+Rotevatn&amp;author=JE+Nordrehaug&amp;volume=17&amp;publication_year=2006&amp;pages=385-390&amp;pmid=16707963&amp;doi=10.1097/00019501-200606000-00010&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B5"><span class="citation">Di PA, Fioranelli M, Celleno D, Delli MM. SCS in intractable angina. <span><span class="ref-journal">Minerva Anestesiol. </span>2000;<span class="ref-vol">66</span>:825–827.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/11213551" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Minerva+Anestesiol&amp;title=SCS+in+intractable+angina&amp;author=PA+Di&amp;author=M+Fioranelli&amp;author=D+Celleno&amp;author=MM+Delli&amp;volume=66&amp;publication_year=2000&amp;pages=825-827&amp;pmid=11213551&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B6"><span class="citation">Andrell P, Ekre O, Eliasson T, Blomstrand C, Borjesson M, Nilsson M, Mannheimer C. Cost-effectiveness of spinal cord stimulation versus coronary artery bypass grafting in patients with severe angina pectoris &#x02013; long-term results from the ESBY study. <span><span class="ref-journal">Cardiology. </span>2003;<span class="ref-vol">99</span>:20–24. doi: 10.1159/000068447.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/12589118" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1159%2F000068447" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Cardiology&amp;title=Cost-effectiveness+of+spinal+cord+stimulation+versus+coronary+artery+bypass+grafting+in+patients+with+severe+angina+pectoris+&#x02013;+long-term+results+from+the+ESBY+study&amp;author=P+Andrell&amp;author=O+Ekre&amp;author=T+Eliasson&amp;author=C+Blomstrand&amp;author=M+Borjesson&amp;volume=99&amp;publication_year=2003&amp;pages=20-24&amp;pmid=12589118&amp;doi=10.1159/000068447&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B7"><span class="citation">Moore R, Chester M. Neuromodulation for chronic refractory angina. <span><span class="ref-journal">Br Med Bull. </span>2001;<span class="ref-vol">59</span>:269–278. doi: 10.1093/bmb/59.1.269.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/11756216" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1093%2Fbmb%2F59.1.269" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Br+Med+Bull&amp;title=Neuromodulation+for+chronic+refractory+angina&amp;author=R+Moore&amp;author=M+Chester&amp;volume=59&amp;publication_year=2001&amp;pages=269-278&amp;pmid=11756216&amp;doi=10.1093/bmb/59.1.269&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B8"><span class="citation">Rimoldi O, Burns SM, Rosen SD, Wistow TE, Schofield PM, Taylor G, Camici PG. Measurement of myocardial blood flow with positron emission tomography before and after transmyocardial laser revascularization. <span><span class="ref-journal">Circulation. </span>1999;<span class="ref-vol">100</span>:II134–II138.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/10567292" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Circulation&amp;title=Measurement+of+myocardial+blood+flow+with+positron+emission+tomography+before+and+after+transmyocardial+laser+revascularization&amp;author=O+Rimoldi&amp;author=SM+Burns&amp;author=SD+Rosen&amp;author=TE+Wistow&amp;author=PM+Schofield&amp;volume=100&amp;publication_year=1999&amp;pages=II134-II138&amp;pmid=10567292&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B9"><span class="citation">Salem M, Rotevatn S, Stavnes S, Brekke M, Pettersen R, Kuiper K, Ulvik R, Nordrehaug JE. Release of cardiac biochemical markers after percutaneous myocardial laser or sham procedures. <span><span class="ref-journal">Int J Cardiol. </span>2005;<span class="ref-vol">104</span>:144–151. doi: 10.1016/j.ijcard.2004.10.050.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/16168806" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2Fj.ijcard.2004.10.050" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Int+J+Cardiol&amp;title=Release+of+cardiac+biochemical+markers+after+percutaneous+myocardial+laser+or+sham+procedures&amp;author=M+Salem&amp;author=S+Rotevatn&amp;author=S+Stavnes&amp;author=M+Brekke&amp;author=R+Pettersen&amp;volume=104&amp;publication_year=2005&amp;pages=144-151&amp;pmid=16168806&amp;doi=10.1016/j.ijcard.2004.10.050&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B10"><span class="citation">Wiemer M, Wielepp P, Butz T, Horstkotte D, Burchert W. Myocardial perfusion after transcutaneous/percutaneous myocardial laser revascularization. <span><span class="ref-journal">Z Kardiol. </span>2002;<span class="ref-vol">91</span>:84–88.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/12641020" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Z+Kardiol&amp;title=Myocardial+perfusion+after+transcutaneous/percutaneous+myocardial+laser+revascularization&amp;author=M+Wiemer&amp;author=P+Wielepp&amp;author=T+Butz&amp;author=D+Horstkotte&amp;author=W+Burchert&amp;volume=91&amp;publication_year=2002&amp;pages=84-88&amp;pmid=12641020&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B11"><span class="citation">Schofield PM, Sharples LD, Caine N, Burns S, Tait S, Wistow T, Buxton M, Wallwork J. Transmyocardial laser revascularisation in patients with refractory angina: a randomised controlled trial. <span><span class="ref-journal">Lancet. </span>1999;<span class="ref-vol">353</span>:519–524. doi: 10.1016/S0140-6736(98)11478-2.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/10028979" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2FS0140-6736(98)11478-2" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Lancet&amp;title=Transmyocardial+laser+revascularisation+in+patients+with+refractory+angina:+a+randomised+controlled+trial&amp;author=PM+Schofield&amp;author=LD+Sharples&amp;author=N+Caine&amp;author=S+Burns&amp;author=S+Tait&amp;volume=353&amp;publication_year=1999&amp;pages=519-524&amp;pmid=10028979&amp;doi=10.1016/S0140-6736(98)11478-2&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B12"><span class="citation">Mannheimer C, Camici P, Chester MR, Collins A, DeJongste M, Eliasson T, Follath F, Hellemans I, Herlitz J, Luscher T, Pasic M, Thelle D. The problem of chronic refractory angina; report from the ESC Joint Study Group on the Treatment of Refractory Angina. <span><span class="ref-journal">Eur Heart J. </span>2002;<span class="ref-vol">23</span>:355–370. doi: 10.1053/euhj.2001.2706.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/11846493" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1053%2Feuhj.2001.2706" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Eur+Heart+J&amp;title=The+problem+of+chronic+refractory+angina;+report+from+the+ESC+Joint+Study+Group+on+the+Treatment+of+Refractory+Angina&amp;author=C+Mannheimer&amp;author=P+Camici&amp;author=MR+Chester&amp;author=A+Collins&amp;author=M+DeJongste&amp;volume=23&amp;publication_year=2002&amp;pages=355-370&amp;pmid=11846493&amp;doi=10.1053/euhj.2001.2706&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B13"><span class="citation">Danias PG, Papaioannou GI, Ahlberg AW, O'Sullivan DM, Mann A, Boden WE, Heller GV. Usefulness of electrocardiographic-gated stress technetium-99m sestamibi single-photon emission computed tomography to differentiate ischemic from nonischemic cardiomyopathy. <span><span class="ref-journal">Am J Cardiol. </span>2004;<span class="ref-vol">94</span>:14–19. doi: 10.1016/j.amjcard.2004.03.022.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/15219501" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2Fj.amjcard.2004.03.022" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Am+J+Cardiol&amp;title=Usefulness+of+electrocardiographic-gated+stress+technetium-99m+sestamibi+single-photon+emission+computed+tomography+to+differentiate+ischemic+from+nonischemic+cardiomyopathy&amp;author=PG+Danias&amp;author=GI+Papaioannou&amp;author=AW+Ahlberg&amp;author=DM+O'Sullivan&amp;author=A+Mann&amp;volume=94&amp;publication_year=2004&amp;pages=14-19&amp;pmid=15219501&amp;doi=10.1016/j.amjcard.2004.03.022&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B14"><span class="citation">Petix NR, Sestini S, Coppola A, Marcucci G, Nassi F, Taiti A, Guarnaccia V, Mennuti A, Mazzoni V, Zipoli A. Prognostic value of combined perfusion and function by stress technetium-99m sestamibi gated SPECT myocardial perfusion imaging in patients with suspected or known coronary artery disease. <span><span class="ref-journal">Am J Cardiol. </span>2005;<span class="ref-vol">95</span>:1351–1357. doi: 10.1016/j.amjcard.2005.01.081.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/15904642" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2Fj.amjcard.2005.01.081" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Am+J+Cardiol&amp;title=Prognostic+value+of+combined+perfusion+and+function+by+stress+technetium-99m+sestamibi+gated+SPECT+myocardial+perfusion+imaging+in+patients+with+suspected+or+known+coronary+artery+disease&amp;author=NR+Petix&amp;author=S+Sestini&amp;author=A+Coppola&amp;author=G+Marcucci&amp;author=F+Nassi&amp;volume=95&amp;publication_year=2005&amp;pages=1351-1357&amp;pmid=15904642&amp;doi=10.1016/j.amjcard.2005.01.081&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B15"><span class="citation">De Landsheere C, Mannheimer C, Habets A, Guillaume M, Bourgeois I, Augustinsson LE, Eliasson T, Lamotte D, Kulbertus H, Rigo P. Effect of spinal cord stimulation on regional myocardial perfusion assessed by positron emission tomography. <span><span class="ref-journal">Am J Cardiol. </span>1992;<span class="ref-vol">69</span>:1143–1149. doi: 10.1016/0002-9149(92)90926-P.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/1575182" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2F0002-9149(92)90926-P" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Am+J+Cardiol&amp;title=Effect+of+spinal+cord+stimulation+on+regional+myocardial+perfusion+assessed+by+positron+emission+tomography&amp;author=C+De+Landsheere&amp;author=C+Mannheimer&amp;author=A+Habets&amp;author=M+Guillaume&amp;author=I+Bourgeois&amp;volume=69&amp;publication_year=1992&amp;pages=1143-1149&amp;pmid=1575182&amp;doi=10.1016/0002-9149(92)90926-P&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B16"><span class="citation">Hautvast RW, Blanksma PK, DeJongste MJ, Pruim J, van der Wall EE, Vaalburg W, Lie KI. Effect of spinal cord stimulation on myocardial blood flow assessed by positron emission tomography in patients with refractory angina pectoris. <span><span class="ref-journal">Am J Cardiol. </span>1996;<span class="ref-vol">77</span>:462–467. doi: 10.1016/S0002-9149(97)89338-1.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/8629585" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2FS0002-9149(97)89338-1" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Am+J+Cardiol&amp;title=Effect+of+spinal+cord+stimulation+on+myocardial+blood+flow+assessed+by+positron+emission+tomography+in+patients+with+refractory+angina+pectoris&amp;author=RW+Hautvast&amp;author=PK+Blanksma&amp;author=MJ+DeJongste&amp;author=J+Pruim&amp;author=EE+van+der+Wall&amp;volume=77&amp;publication_year=1996&amp;pages=462-467&amp;pmid=8629585&amp;doi=10.1016/S0002-9149(97)89338-1&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B17"><span class="citation">Mobilia G, Zuin G, Zanco P, Di PF, Pinato G, Neri G, Cargnel S, Raviele A, Ferlin G, Buchberger R. [Effects of spinal cord stimulation on regional myocardial blood flow in patients with refractory angina. A positron emission tomography study] <span><span class="ref-journal">G Ital Cardiol. </span>1998;<span class="ref-vol">28</span>:1113–1119.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/9834863" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=G+Ital+Cardiol&amp;title=[Effects+of+spinal+cord+stimulation+on+regional+myocardial+blood+flow+in+patients+with+refractory+angina.+A+positron+emission+tomography+study]&amp;author=G+Mobilia&amp;author=G+Zuin&amp;author=P+Zanco&amp;author=PF+Di&amp;author=G+Pinato&amp;volume=28&amp;publication_year=1998&amp;pages=1113-1119&amp;pmid=9834863&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B18"><span class="citation">Diedrichs H, Zobel C, Theissen P, Weber M, Koulousakis A, Schicha H, Schwinger RH. Symptomatic relief precedes improvement of myocardial blood flow in patients under spinal cord stimulation. <span><span class="ref-journal">Curr Control Trials Cardiovasc Med. </span>2005;<span class="ref-vol">6</span>:7. doi: 10.1186/1468-6708-6-7.</span> <span class="nowrap">[<a class="int-reflink" href="/pmc/articles/PMC1173130/">PMC free article</a>]</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/15943878" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1186%2F1468-6708-6-7" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Curr+Control+Trials+Cardiovasc+Med&amp;title=Symptomatic+relief+precedes+improvement+of+myocardial+blood+flow+in+patients+under+spinal+cord+stimulation&amp;author=H+Diedrichs&amp;author=C+Zobel&amp;author=P+Theissen&amp;author=M+Weber&amp;author=A+Koulousakis&amp;volume=6&amp;publication_year=2005&amp;pages=7&amp;pmid=15943878&amp;doi=10.1186/1468-6708-6-7&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B19"><span class="citation">Burns SM, Brown S, White CA, Tait S, Sharples L, Schofield PM. Quantitative analysis of myocardial perfusion changes with transmyocardial laser revascularization. <span><span class="ref-journal">Am J Cardiol. </span>2001;<span class="ref-vol">87</span>:861–867. doi: 10.1016/S0002-9149(00)01527-7.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/11274941" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2FS0002-9149(00)01527-7" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Am+J+Cardiol&amp;title=Quantitative+analysis+of+myocardial+perfusion+changes+with+transmyocardial+laser+revascularization&amp;author=SM+Burns&amp;author=S+Brown&amp;author=CA+White&amp;author=S+Tait&amp;author=L+Sharples&amp;volume=87&amp;publication_year=2001&amp;pages=861-867&amp;pmid=11274941&amp;doi=10.1016/S0002-9149(00)01527-7&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B20"><span class="citation">Kluge R, Lauer B, Stahl F, Barthel H, Schuler G. Changes in myocardial perfusion after catheter-based percutaneous laser revascularisation. <span><span class="ref-journal">Eur J Nucl Med. </span>2000;<span class="ref-vol">27</span>:1292–1299. doi: 10.1007/s002590000290.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/11007509" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1007%2Fs002590000290" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=Eur+J+Nucl+Med&amp;title=Changes+in+myocardial+perfusion+after+catheter-based+percutaneous+laser+revascularisation&amp;author=R+Kluge&amp;author=B+Lauer&amp;author=F+Stahl&amp;author=H+Barthel&amp;author=G+Schuler&amp;volume=27&amp;publication_year=2000&amp;pages=1292-1299&amp;pmid=11007509&amp;doi=10.1007/s002590000290&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B21"><span class="citation">Leon MB, Kornowski R, Downey WE, Weisz G, Baim DS, Bonow RO, Hendel RC, Cohen DJ, Gervino E, Laham R, Lembo NJ, Moses JW, Kuntz RE. A blinded, randomized, placebo-controlled trial of percutaneous laser myocardial revascularization to improve angina symptoms in patients with severe coronary disease. <span><span class="ref-journal">J Am Coll Cardiol. </span>2005;<span class="ref-vol">46</span>:1812–1819. doi: 10.1016/j.jacc.2005.06.079.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/16286164" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2Fj.jacc.2005.06.079" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=J+Am+Coll+Cardiol&amp;title=A+blinded,+randomized,+placebo-controlled+trial+of+percutaneous+laser+myocardial+revascularization+to+improve+angina+symptoms+in+patients+with+severe+coronary+disease&amp;author=MB+Leon&amp;author=R+Kornowski&amp;author=WE+Downey&amp;author=G+Weisz&amp;author=DS+Baim&amp;volume=46&amp;publication_year=2005&amp;pages=1812-1819&amp;pmid=16286164&amp;doi=10.1016/j.jacc.2005.06.079&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B22"><span class="citation">Aaberge L, Rootwelt K, Blomhoff S, Saatvedt K, Abdelnoor M, Forfang K. Continued symptomatic improvement three to five years after transmyocardial revascularization with CO(2) laser: a late clinical follow-up of the Norwegian Randomized trial with transmyocardial revascularization. <span><span class="ref-journal">J Am Coll Cardiol. </span>2002;<span class="ref-vol">39</span>:1588–1593. doi: 10.1016/S0735-1097(02)01828-4.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/12020484" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2FS0735-1097(02)01828-4" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=J+Am+Coll+Cardiol&amp;title=Continued+symptomatic+improvement+three+to+five+years+after+transmyocardial+revascularization+with+CO(2)+laser:+a+late+clinical+follow-up+of+the+Norwegian+Randomized+trial+with+transmyocardial+revascularization&amp;author=L+Aaberge&amp;author=K+Rootwelt&amp;author=S+Blomhoff&amp;author=K+Saatvedt&amp;author=M+Abdelnoor&amp;volume=39&amp;publication_year=2002&amp;pages=1588-1593&amp;pmid=12020484&amp;doi=10.1016/S0735-1097(02)01828-4&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li><li id="B23"><span class="citation">Burkhoff D, Jones JW, Becker LC. Variability of myocardial perfusion defects assessed by thallium-201 scintigraphy in patients with coronary artery disease not amenable to angioplasty or bypass surgery. <span><span class="ref-journal">J Am Coll Cardiol. </span>2001;<span class="ref-vol">38</span>:1033–1039. doi: 10.1016/S0735-1097(01)01489-9.</span> [<a href="https://pubmed.ncbi.nlm.nih.gov/11583878" ref="reftype=pubmed&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord">PubMed</a>] [<a href="//doi.org/10.1016%2FS0735-1097(01)01489-9" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI">CrossRef</a>] <span class="nowrap">[<a href="https://scholar.google.com/scholar_lookup?journal=J+Am+Coll+Cardiol&amp;title=Variability+of+myocardial+perfusion+defects+assessed+by+thallium-201+scintigraphy+in+patients+with+coronary+artery+disease+not+amenable+to+angioplasty+or+bypass+surgery&amp;author=D+Burkhoff&amp;author=JW+Jones&amp;author=LC+Becker&amp;volume=38&amp;publication_year=2001&amp;pages=1033-1039&amp;pmid=11583878&amp;doi=10.1016/S0735-1097(01)01489-9&amp;" target="_blank" rel="noopener noreferrer" ref="reftype=other&amp;article-id=2266700&amp;issue-id=161278&amp;journal-id=388&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CLink%7CGoogle%20Scholar">Google Scholar</a>]</span></span></li></ul></div></div></div><!--post-content--><div class="courtesy-note whole_rhythm small"><hr /><div class="half_rhythm">Articles from <span class="acknowledgment-journal-title">Trials</span> are provided here courtesy of <strong>BMC</strong></div><hr /></div><div id="body-link-poppers"><span></span></div></div>
+            
+        </section>
+    </article>
+    <aside class="usa-width-one-fourth usa-layout-docs-sidenav pmc-sidebar">
+         
+  
+
+<div class="scroller">
+
+    
+        <section>
+                <h6>Other Formats</h6>
+                <ul class="pmc-sidebar__formats">
+                  <li class="pubreader-link other_item"><a href="/pmc/articles/PMC2266700/?report=reader" class="sidefm-pmclink">PubReader</a></li>
+<li class="pdf-link other_item"><a href="/pmc/articles/PMC2266700/pdf/1745-6215-9-9.pdf" class="int-view">PDF (298K)</a></li>
+                </ul>
+        </section>
+    
+    <section>
+        <h6>Actions</h6>
+        <ul class="pmc-sidebar__actions">
+            <li>
+                <button role="button" class="citation-button citation-dialog-trigger ctxp"
+                        aria-label="Open dialog with citation text in different styles" data-ga-category="save_share" data-ga-action="cite" data-ga-label="open"
+                        data-all-citations-url="/pmc/resources/citations/2266700/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/pmc/resources/citations/2266700/export/"
+                >
+                    <span class="button-label">Cite</span>
+                </button>
+            </li>
+            <li>
+                
+                    
+
+<div class="collections-button-container" data-article-id="2266700" data-article-db="pmc">
+  <button class="collections-button collections-dialog-trigger"
+          aria-label="Save article in MyNCBI collections."
+          data-ga-category="collections_button"
+          data-ga-action="click"
+          data-ga-label="collections_button"
+          data-collections-open-dialog-enabled="false"
+          data-collections-open-dialog-url="https://www.ncbi.nlm.nih.gov/account?back_url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2266700%2F%23open-collections-dialog"
+          data-in-collections="false">
+      <span class="button-label">Collections</span>
+  </button>
+  <div class="overlay" role="dialog">
+  <div id="collections-action-dialog"
+       class="dialog collections-dialog"
+       aria-hidden="true">
+    <div class="title">Add to Collections</div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/pmc/list-existing-collections/"
+      data-add-to-existing-collection-url="/pmc/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/pmc/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+  <input type="hidden" name="csrfmiddlewaretoken" value="omF8ONgHN5Y7YFjW9hjb52hkebJ8hFnTT9TolTHgEm8UYwj8ykLZ1WfGa65s2Ony">
+
+  
+
+  <div class="choice-group" role="radiogroup">
+    <ul class="radio-group-items">
+      <li>
+        <input type="radio"
+               id="collections-action-dialog-new-aside "
+               class="collections-new"
+               name="collections"
+               value="new"
+               data-ga-category="collections_button"
+               data-ga-action="click"
+               data-ga-label="collections_radio_new">
+        <label for="collections-action-dialog-new-aside ">Create a new collection</label>
+      </li>
+      <li>
+        <input type="radio"
+               id="collections-action-dialog-existing-aside "
+               class="collections-existing"
+               name="collections"
+               value="existing"
+               checked="true"
+               data-ga-category="collections_button"
+               data-ga-action="click"
+               data-ga-label="collections_radio_existing">
+        <label for="collections-action-dialog-existing-aside ">Add to an existing collection</label>
+      </li>
+    </ul>
+  </div>
+
+  <div class="controls-wrapper">
+    <div class="action-panel-control-wrap new-collections-controls">
+      <label for="collections-action-dialog-add-to-new" class="action-panel-label required-field-asterisk">
+        Name your collection:
+      </label>
+      <input
+        type="text"
+        name="add-to-new-collection"
+        id="collections-action-dialog-add-to-new"
+        class="collections-action-add-to-new"
+        pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+        maxlength=""
+        data-ga-category="collections_button"
+        data-ga-action="create_collection"
+        data-ga-label="non_favorties_collection">
+      <div class="collections-new-name-too-long usa-input-error-message selection-validation-message">
+        Name must be less than  characters
+      </div>
+    </div>
+    <div class="action-panel-control-wrap existing-collections-controls">
+      <label for="collections-action-dialog-add-to-existing" class="action-panel-label">
+        Choose a collection:
+      </label>
+      <select id="collections-action-dialog-add-to-existing"
+              class="action-panel-selector collections-action-add-to-existing"
+              data-ga-category="collections_button"
+              data-ga-action="select_collection"
+              data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+      </select>
+      <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+        Unable to load your collection due to an error<br>
+        <a href="#">Please try again</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="action-panel-actions">
+    <button class="action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+      Add
+    </button>
+    <button class="action-panel-cancel"
+            aria-label="Close 'Add to Collections' panel"
+            ref="linksrc=close_collections_panel"
+            aria-controls="collections-action-panel"
+            aria-expanded="false"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="cancel">
+      Cancel
+    </button>
+  </div>
+</form>
+    </div>
+  </div>
+</div>
+</div>
+                
+            </li>
+
+        </ul>
+    </section>
+    
+        <section class="social-sharing">
+            <h6>Share</h6>
+            <ul class="pmc-sidebar__share">
+                <li><a class="fa-stack fa-lg" target="_blank" rel="noopener noreferrer" role="button" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2266700%2F&amp;text=A%20study%20to%20assess%20changes%20in%20myocardial%20perfusion%20after%20treatment%20with%20spinal%20cord%20stimulation%20and%20percutaneous%20..." alt="Share on Twitter"><i class="fa fa-twitter fa-stack-1x">&#160;</i></a></li> 
+<li><a class="fa-stack fa-lg" target="_blank" rel="noopener noreferrer" role="button" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2266700%2F" alt="Share on Facebook"><i class="fa fa-facebook fa-stack-1x">&#160;</i></a></li>
+                <li>
+                    <div class="share-permalink">
+                        <button class="trigger"  alt="Show article permalink" aria-expanded="false" aria-haspopup="true">
+                            <i class="fa-stack fa-lg" >
+                                <i class="fa fa-link fa-stack-1x">&nbsp;</i>
+                            </i>
+                        </button>
+                        <div class="dropdown dropdown-container" hidden>
+                              <div class="title">
+                                Permalink
+                              </div>
+                              <div class="content">
+                                  <input type="text" class="permalink-text" value="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266700/" aria-label="Article permalink"><button class="permalink-copy-button usa-button-primary" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                                      <span class="button-title">Copy</span>
+                                  </button>
+                              </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </section>
+    
+    <section>
+        <h6>RESOURCES</h6>
+        <ul class="pmc-sidebar__resources">
+        
+            <li>
+                <div class="usa-accordion">
+                    <button
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_similar_articles"
+                            data-ga-label="/pmc/articles/PMC2266700/"
+                            class="usa-accordion-button"
+                            aria-controls="similar-articles-accordion-aside"
+                            aria-expanded="false"
+                            data-action-open="open_similar_articles"
+                            data-action-close="close_similar_articles"
+                    >
+                        Similar articles
+                    </button>
+                    <div
+                            
+                                data-source-url="/pmc/resources/similar-article-links/18304366/"
+                            
+
+                         class="usa-accordion-content pmc-sidebar__resources--citations" id="similar-articles-accordion-aside" aria-hidden="true">
+                        
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="usa-accordion">
+                    <button
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_cited_by"
+                            data-ga-label="/pmc/articles/PMC2266700/"
+                            class="usa-accordion-button"
+                            aria-controls="cited-by-accordion-aside"
+                            aria-expanded="false"
+                            data-action-open="open_cited_by"
+                            data-action-close="close_cited_by"
+                    >
+                        Cited by other articles
+                    </button>
+                    <div
+                            
+                                data-source-url="/pmc/resources/cited-by-links/18304366/"
+                            
+                            class="usa-accordion-content pmc-sidebar__resources--citations"
+                            id="cited-by-accordion-aside"
+                            aria-hidden="true"
+                    >
+                        
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="usa-accordion">
+                    <button
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/pmc/articles/PMC2266700/"
+                            class="usa-accordion-button"
+                            aria-controls="links-accordion-aside"
+                            aria-expanded="false"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                    >
+                        Links to NCBI Databases
+                    </button>
+                    <div data-source-url="/pmc/resources/db-links/2266700/" class="usa-accordion-content" id="links-accordion-aside" aria-hidden="true"></div>
+                </div>
+            </li>
+
+            
+        
+        </ul>
+    </section>
+
+ </div>
+
+    </aside>
+</main>
+
+    <div class="overlay" role="dialog" aria-label="Citation Dialog">
+  <div class="dialog citation-dialog">
+    <button class="close-overlay" tabindex="1">[x]</button>
+    <div class="title">Cite</div>
+    <div class="citation-text-block">
+  <div class="citation-text"></div>
+  <div class="citation-actions">
+    <button
+      class="copy-button dialog-focus"
+      data-ga-category="save_share"
+      data-ga-action="cite"
+      data-ga-label="copy"
+      tabindex="2">
+      Copy
+    </button>
+
+      <a href="#"
+              class="export-button"
+              data-ga-category="save_share"
+              data-ga-action="cite"
+              data-ga-label="download"
+              title="Download a file for external citation management software"
+              tabindex="3">
+          <span class="title">Download .nbib</span>
+          <span class="title-mobile">.nbib</span>
+      </a>
+
+
+    
+
+<div class="citation-style-selector-wrapper">
+  <label class="selector-label">Format:</label>
+  <select aria-label="Format" class="citation-style-selector" tabindex="4" >
+    
+      <option data-style-url-name="ama"
+              value="AMA"
+              >
+        AMA
+      </option>
+    
+      <option data-style-url-name="apa"
+              value="APA"
+              >
+        APA
+      </option>
+    
+      <option data-style-url-name="mla"
+              value="MLA"
+              >
+        MLA
+      </option>
+    
+      <option data-style-url-name="nlm"
+              value="NLM"
+              selected="selected">
+        NLM
+      </option>
+    
+  </select>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+
+     <!-- ========== BEGIN FOOTER ========== -->
+ <footer>
+      <section class="icon-section">
+        <div id="icon-section-header" class="icon-section_header">Follow NCBI</div>
+        <div class="grid-container container">
+          <div class="icon-section_container">
+            <a class="footer-icon" id="footer_twitter" href="https://twitter.com/ncbi" aria-label="Twitter"><svg
+                data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+                <defs>
+                  <style>
+                    .cls-11 {
+                      fill: #737373;
+                    }
+                  </style>
+                </defs>
+                <title>Twitter</title>
+                <path class="cls-11"
+                  d="M250.11,105.48c-7,3.14-13,3.25-19.27.14,8.12-4.86,8.49-8.27,11.43-17.46a78.8,78.8,0,0,1-25,9.55,39.35,39.35,0,0,0-67,35.85,111.6,111.6,0,0,1-81-41.08A39.37,39.37,0,0,0,81.47,145a39.08,39.08,0,0,1-17.8-4.92c0,.17,0,.33,0,.5a39.32,39.32,0,0,0,31.53,38.54,39.26,39.26,0,0,1-17.75.68,39.37,39.37,0,0,0,36.72,27.3A79.07,79.07,0,0,1,56,223.34,111.31,111.31,0,0,0,116.22,241c72.3,0,111.83-59.9,111.83-111.84,0-1.71,0-3.4-.1-5.09C235.62,118.54,244.84,113.37,250.11,105.48Z">
+                </path>
+              </svg></a>
+            <a class="footer-icon" id="footer_facebook" href="https://www.facebook.com/ncbi.nlm" aria-label="Facebook"><svg
+                data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+                <title>Facebook</title>
+                <path class="cls-11"
+                  d="M210.5,115.12H171.74V97.82c0-8.14,5.39-10,9.19-10h27.14V52l-39.32-.12c-35.66,0-42.42,26.68-42.42,43.77v19.48H99.09v36.32h27.24v109h45.41v-109h35Z">
+                </path>
+              </svg></a>
+            <a class="footer-icon" id="footer_linkedin"
+              href="https://www.linkedin.com/company/ncbinlm"
+              aria-label="LinkedIn"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+                <title>LinkedIn</title>
+                <path class="cls-11"
+                  d="M101.64,243.37H57.79v-114h43.85Zm-22-131.54h-.26c-13.25,0-21.82-10.36-21.82-21.76,0-11.65,8.84-21.15,22.33-21.15S101.7,78.72,102,90.38C102,101.77,93.4,111.83,79.63,111.83Zm100.93,52.61A17.54,17.54,0,0,0,163,182v61.39H119.18s.51-105.23,0-114H163v13a54.33,54.33,0,0,1,34.54-12.66c26,0,44.39,18.8,44.39,55.29v58.35H198.1V182A17.54,17.54,0,0,0,180.56,164.44Z">
+                </path>
+              </svg></a>
+            <a class="footer-icon" id="footer_github" href="https://github.com/ncbi" aria-label="GitHub"><svg
+                data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+                <defs>
+                  <style>
+                    .cls-11,
+                    .cls-12 {
+                      fill: #737373;
+                    }
+
+                    .cls-11 {
+                      fill-rule: evenodd;
+                    }
+                  </style>
+                </defs>
+                <title>GitHub</title>
+                <path class="cls-11"
+                  d="M151.36,47.28a105.76,105.76,0,0,0-33.43,206.1c5.28,1,7.22-2.3,7.22-5.09,0-2.52-.09-10.85-.14-19.69-29.42,6.4-35.63-12.48-35.63-12.48-4.81-12.22-11.74-15.47-11.74-15.47-9.59-6.56.73-6.43.73-6.43,10.61.75,16.21,10.9,16.21,10.9,9.43,16.17,24.73,11.49,30.77,8.79,1-6.83,3.69-11.5,6.71-14.14C108.57,197.1,83.88,188,83.88,147.51a40.92,40.92,0,0,1,10.9-28.39c-1.1-2.66-4.72-13.42,1-28,0,0,8.88-2.84,29.09,10.84a100.26,100.26,0,0,1,53,0C198,88.3,206.9,91.14,206.9,91.14c5.76,14.56,2.14,25.32,1,28a40.87,40.87,0,0,1,10.89,28.39c0,40.62-24.74,49.56-48.29,52.18,3.79,3.28,7.17,9.71,7.17,19.58,0,14.15-.12,25.54-.12,29,0,2.82,1.9,6.11,7.26,5.07A105.76,105.76,0,0,0,151.36,47.28Z">
+                </path>
+                <path class="cls-12"
+                  d="M85.66,199.12c-.23.52-1.06.68-1.81.32s-1.2-1.06-.95-1.59,1.06-.69,1.82-.33,1.21,1.07.94,1.6Zm-1.3-1">
+                </path>
+                <path class="cls-12"
+                  d="M90,203.89c-.51.47-1.49.25-2.16-.49a1.61,1.61,0,0,1-.31-2.19c.52-.47,1.47-.25,2.17.49s.82,1.72.3,2.19Zm-1-1.08">
+                </path>
+                <path class="cls-12"
+                  d="M94.12,210c-.65.46-1.71,0-2.37-.91s-.64-2.07,0-2.52,1.7,0,2.36.89.65,2.08,0,2.54Zm0,0"></path>
+                <path class="cls-12"
+                  d="M99.83,215.87c-.58.64-1.82.47-2.72-.41s-1.18-2.06-.6-2.7,1.83-.46,2.74.41,1.2,2.07.58,2.7Zm0,0">
+                </path>
+                <path class="cls-12"
+                  d="M107.71,219.29c-.26.82-1.45,1.2-2.64.85s-2-1.34-1.74-2.17,1.44-1.23,2.65-.85,2,1.32,1.73,2.17Zm0,0">
+                </path>
+                <path class="cls-12"
+                  d="M116.36,219.92c0,.87-1,1.59-2.24,1.61s-2.29-.68-2.3-1.54,1-1.59,2.26-1.61,2.28.67,2.28,1.54Zm0,0">
+                </path>
+                <path class="cls-12"
+                  d="M124.42,218.55c.15.85-.73,1.72-2,1.95s-2.37-.3-2.52-1.14.73-1.75,2-2,2.37.29,2.53,1.16Zm0,0"></path>
+              </svg></a>
+            <a class="footer-icon" id="footer_blog" href="https://ncbiinsights.ncbi.nlm.nih.gov/" aria-label="Blog">
+              <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><defs><style>.cls-1{fill:#737373;}</style></defs><path class="cls-1" d="M14,30a4,4,0,1,1-4-4,4,4,0,0,1,4,4Zm11,3A19,19,0,0,0,7.05,15a1,1,0,0,0-1,1v3a1,1,0,0,0,.93,1A14,14,0,0,1,20,33.07,1,1,0,0,0,21,34h3a1,1,0,0,0,1-1Zm9,0A28,28,0,0,0,7,6,1,1,0,0,0,6,7v3a1,1,0,0,0,1,1A23,23,0,0,1,29,33a1,1,0,0,0,1,1h3A1,1,0,0,0,34,33Z"/></svg>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="container-fluid bg-primary">
+        <div class="container pt-5">
+          <div class="row mt-3">
+            <div class="col-lg-3 col-12">
+              <p><a class="text-white" href="https://www.nlm.nih.gov/socialmedia/index.html">Connect with NLM</a></p>
+              <ul class="list-inline social_media">
+                <li class="list-inline-item"><a href="https://twitter.com/NLM_NIH" aria-label="Twitter"
+                    target="_blank" rel="noopener noreferrer"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                      xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 249 249"
+                      style="enable-background:new 0 0 249 249;" xml:space="preserve">
+                      <style type="text/css">
+                        .st20 {
+                          fill: #FFFFFF;
+                        }
+
+                        .st30 {
+                          fill: none;
+                          stroke: #FFFFFF;
+                          stroke-width: 8;
+                          stroke-miterlimit: 10;
+                        }
+                      </style>
+                      <title>SM-Twitter</title>
+                      <g>
+                        <g>
+                          <g>
+                            <path class="st20" d="M192.9,88.1c-5,2.2-9.2,2.3-13.6,0.1c5.7-3.4,6-5.8,8.1-12.3c-5.4,3.2-11.4,5.5-17.6,6.7
+                                                c-10.5-11.2-28.1-11.7-39.2-1.2c-7.2,6.8-10.2,16.9-8,26.5c-22.3-1.1-43.1-11.7-57.2-29C58,91.6,61.8,107.9,74,116
+                                                c-4.4-0.1-8.7-1.3-12.6-3.4c0,0.1,0,0.2,0,0.4c0,13.2,9.3,24.6,22.3,27.2c-4.1,1.1-8.4,1.3-12.5,0.5c3.6,11.3,14,19,25.9,19.3
+                                                c-11.6,9.1-26.4,13.2-41.1,11.5c12.7,8.1,27.4,12.5,42.5,12.5c51,0,78.9-42.2,78.9-78.9c0-1.2,0-2.4-0.1-3.6
+                                                C182.7,97.4,189.2,93.7,192.9,88.1z"></path>
+                          </g>
+                        </g>
+                        <circle class="st30" cx="124.4" cy="128.8" r="108.2"></circle>
+                      </g>
+                    </svg></a></li>
+                <li class="list-inline-item"><a href="https://www.facebook.com/nationallibraryofmedicine"
+                    aria-label="Facebook" rel="noopener noreferrer" target="_blank">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                      y="0px" viewBox="0 0 249 249" style="enable-background:new 0 0 249 249;" xml:space="preserve">
+                      <style type="text/css">
+                        .st10 {
+                          fill: #FFFFFF;
+                        }
+
+                        .st110 {
+                          fill: none;
+                          stroke: #FFFFFF;
+                          stroke-width: 8;
+                          stroke-miterlimit: 10;
+                        }
+                      </style>
+                      <title>SM-Facebook</title>
+                      <g>
+                        <g>
+                          <path class="st10" d="M159,99.1h-24V88.4c0-5,3.3-6.2,5.7-6.2h16.8V60l-24.4-0.1c-22.1,0-26.2,16.5-26.2,27.1v12.1H90v22.5h16.9
+                                                      v67.5H135v-67.5h21.7L159,99.1z"></path>
+                        </g>
+                      </g>
+                      <circle class="st110" cx="123.6" cy="123.2" r="108.2"></circle>
+                    </svg>
+                  </a></li>
+                <li class="list-inline-item"><a href="https://www.youtube.com/user/NLMNIH" aria-label="Youtube"
+                    target="_blank" rel="noopener noreferrer"><svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                      xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 249 249"
+                      style="enable-background:new 0 0 249 249;" xml:space="preserve">
+                      <title>SM-Youtube</title>
+                      <style type="text/css">
+                        .st4 {
+                          fill: none;
+                          stroke: #FFFFFF;
+                          stroke-width: 8;
+                          stroke-miterlimit: 10;
+                        }
+
+                        .st5 {
+                          fill: #FFFFFF;
+                        }
+                      </style>
+                      <circle class="st4" cx="124.2" cy="123.4" r="108.2"></circle>
+                      <g transform="translate(0,-952.36218)">
+                        <path class="st5"
+                          d="M88.4,1037.4c-10.4,0-18.7,8.3-18.7,18.7v40.1c0,10.4,8.3,18.7,18.7,18.7h72.1c10.4,0,18.7-8.3,18.7-18.7
+                                            v-40.1c0-10.4-8.3-18.7-18.7-18.7H88.4z M115.2,1058.8l29.4,17.4l-29.4,17.4V1058.8z"></path>
+                      </g>
+                    </svg></a></li>
+              </ul>
+            </div>
+            <div class="col-lg-3 col-12">
+              <p class="address_footer text-white">National Library of Medicine<br>
+                <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323"
+                  class="text-white" target="_blank" rel="noopener noreferrer">8600 Rockville Pike<br>
+                  Bethesda, MD 20894</a></p>
+            </div>
+            <div class="col-lg-3 col-12 centered-lg">
+              <p><a href="https://www.nlm.nih.gov/web_policies.html" class="text-white">Web Policies</a><br>
+                <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office"
+                  class="text-white">FOIA</a><br>
+                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="text-white" id="vdp">HHS Vulnerability Disclosure</a></p>
+            </div>
+            <div class="col-lg-3 col-12 centered-lg">
+              <p><a class="supportLink text-white" href="https://support.nlm.nih.gov/">Help</a><br>
+                <a href="https://www.nlm.nih.gov/accessibility.html" class="text-white">Accessibility</a><br>
+                <a href="https://www.nlm.nih.gov/careers/careers.html" class="text-white">Careers</a></p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-12 centered-lg">
+              <nav class="bottom-links">
+                <ul class="mt-3">
+                  <li>
+                    <a class="text-white" href="//www.nlm.nih.gov/">NLM</a>
+                  </li>
+                  <li>
+                    <a class="text-white"
+                  href="https://www.nih.gov/">NIH</a>
+                  </li>
+                  <li>
+                    <a class="text-white" href="https://www.hhs.gov/">HHS</a>
+                  </li>
+                  <li>
+                    <a
+                  class="text-white" href="https://www.usa.gov/">USA.gov</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>
+ <!-- ========== END FOOTER ========== -->
+  <!-- javascript to inject NWDS meta tags. Note: value of nwds_version is updated by "npm version" command -->
+ 
+  <script type="text/javascript">
+    var nwds_version = "1.1.9-2";
+
+    var meta_nwds_ver = document.createElement('meta');
+    meta_nwds_ver.name = 'ncbi_nwds_ver';
+    meta_nwds_ver.content = nwds_version;
+    document.getElementsByTagName('head')[0].appendChild(meta_nwds_ver);
+
+    var meta_nwds = document.createElement('meta');
+    meta_nwds.name = 'ncbi_nwds';
+    meta_nwds.content = 'yes';
+    document.getElementsByTagName('head')[0].appendChild(meta_nwds);
+
+	var alertsUrl = "/core/alerts/alerts.js";
+	if (typeof ncbiBaseUrl !== 'undefined') {
+		alertsUrl = ncbiBaseUrl + alertsUrl;
+	}
+  </script>
+
+
+
+  
+    <!-- JavaScript -->
+    <script src="/pmc/static/CACHE/js/output.0f72d6a64937.js"></script>
+  
+  
+    <script src="https://code.jquery.com/jquery-3.5.0.min.js"
+          integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
+          crossorigin="anonymous">
+    </script>
+    <script>
+        var fallbackJquery = "/pmc/static/base/js/jquery-3.5.0.min.js";
+        window.jQuery || document.write("<script src=" + fallbackJquery + ">\x3C/script>")
+    </script>
+  
+
+  <script src="/pmc/static/CACHE/js/output.a212a9fcf845.js"></script>
+<script src="/pmc/static/CACHE/js/output.7999321d1aac.js"></script>
+<script src="/pmc/static/CACHE/js/output.7ca436b2ea51.js"></script>
+<script src="/pmc/static/CACHE/js/output.f8422046fbe0.js"></script>
+<script src="/pmc/static/CACHE/js/output.ff40c7d85ff8.js"></script>
+<script src="/pmc/static/CACHE/js/output.a6a84a0ad361.js"></script>
+
+<script type="text/javascript" src="/pmc/static/bundles/base/base.54110350c77632754ed7.js" ></script>
+
+    <script type="text/javascript">
+        if(typeof jQuery !=='undefined') {
+            jQuery.migrateMute = true;
+        }
+    </script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.js"></script>
+    <script type="text/javascript" src="/core/jig/1.15.2/js/jig.nojquery.min.js">//</script><script type="text/javascript" src="/corehtml/pmc/js/common.min.js?_=3.18">//</script><script type="text/javascript" src="/corehtml/pmc/js/NcbiTagServer.min.js?_=3.18">//</script><script type="text/javascript" src="/corehtml/pmc/js/crb.min.js?_=3.18">//</script><script type="text/javascript" src="/corehtml/pmc/js/jactions.min.js?_=3.18">//</script><meta name="citationexporter" content="backend:'https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pmc/'" /><script type="text/javascript" src="https://www.ncbi.nlm.nih.gov/corehtml/pmc/ctxp/jquery.citationexporter.min.js">//</script><link rel="stylesheet" href="https://www.ncbi.nlm.nih.gov/corehtml/pmc/ctxp/citationexporter.css" type="text/css" /><script type="text/javascript">window.name="mainwindow";</script>
+
+    <script type="text/javascript">var exports = {};</script>
+    <script src="/pmc/static/CACHE/js/output.340a3b9cce7f.js"></script>
+<script src="/pmc/static/CACHE/js/output.586993420cfd.js"></script>
+    <script type="text/javascript" src="/pmc/static/bundles/article/article.bf4d0b9d90eb88f67344.js" ></script>
+    <script type="text/javascript">
+        window.ncbi.pmc.articlePage.init({ pageURL: '/pmc/articles/PMC2266700/', citeCookieName: 'pmc-cf'});
+    </script>
+
+
+  
+  
+  <script  type="text/javascript" src="https://www.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+  
+      
+  
+
+</body>
+</html>

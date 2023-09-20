@@ -10,3 +10,8 @@ tabula
 torch
 textsum
 transformers
+PyPDF2
+PyMuPDF
+pdfplumber
+keras
+tensorflow
