@@ -158,3 +158,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+# Ignore the 'folder1' and 'folder2' directories
+/workspaces/Wikistim-Summarization/saved_model_long_t5_local_base/
+/workspaces/Wikistim-Summarization/saved_model_flan_t5_xxl/
