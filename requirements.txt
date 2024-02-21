@@ -15,3 +15,5 @@ PyMuPDF
 pdfplumber
 keras
 tensorflow
+openai
+sqlite3
